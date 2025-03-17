@@ -1,0 +1,1330 @@
+2025-02-04 10:24:59 | INFO | Logger initialized - Info Mode
+2025-02-04 10:24:59 | WARNING | Logger initialized - Warning Mode
+2025-02-04 10:28:42 | INFO | Logger initialized - Info Mode
+2025-02-04 10:28:42 | WARNING | Logger initialized - Warning Mode
+2025-02-04 10:30:09 | INFO | Logger initialized - Info Mode
+2025-02-04 10:30:09 | WARNING | Logger initialized - Warning Mode
+2025-02-04 10:30:22 | INFO | Logger initialized - Info Mode
+2025-02-04 10:30:22 | WARNING | Logger initialized - Warning Mode
+2025-02-04 10:30:35 | INFO | Logger initialized - Info Mode
+2025-02-04 10:30:35 | WARNING | Logger initialized - Warning Mode
+2025-02-04 10:34:15 | INFO | Logger initialized - Info Mode
+2025-02-04 10:34:15 | WARNING | Logger initialized - Warning Mode
+2025-02-04 10:35:15 | INFO | Logger initialized - Info Mode
+2025-02-04 10:35:15 | WARNING | Logger initialized - Warning Mode
+2025-02-04 10:36:11 | INFO | Logger initialized - Info Mode
+2025-02-04 10:36:11 | WARNING | Logger initialized - Warning Mode
+2025-02-04 10:37:56 | INFO | Logger initialized - Info Mode
+2025-02-04 10:37:56 | WARNING | Logger initialized - Warning Mode
+2025-02-04 10:39:50 | INFO | Logger initialized - Info Mode
+2025-02-04 10:39:50 | WARNING | Logger initialized - Warning Mode
+2025-02-04 10:41:15 | INFO | Logger initialized - Info Mode
+2025-02-04 10:41:15 | WARNING | Logger initialized - Warning Mode
+2025-02-04 10:41:28 | INFO | Logger initialized - Info Mode
+2025-02-04 10:41:28 | WARNING | Logger initialized - Warning Mode
+2025-02-04 10:41:36 | INFO | Created collection: company_docs
+2025-02-04 10:41:36 | INFO | Successfully connected to Qdrant Cloud
+2025-02-04 10:41:57 | INFO | Logger initialized - Info Mode
+2025-02-04 10:41:57 | WARNING | Logger initialized - Warning Mode
+2025-02-04 10:42:02 | INFO | Collection company_docs already exists
+2025-02-04 10:42:02 | INFO | Successfully connected to Qdrant Cloud
+2025-02-04 10:42:08 | INFO | Logger initialized - Info Mode
+2025-02-04 10:42:08 | WARNING | Logger initialized - Warning Mode
+2025-02-04 10:42:12 | INFO | Collection company_docs already exists
+2025-02-04 10:42:12 | INFO | Successfully connected to Qdrant Cloud
+2025-02-04 10:42:37 | INFO | Logger initialized - Info Mode
+2025-02-04 10:42:37 | WARNING | Logger initialized - Warning Mode
+2025-02-04 10:42:42 | INFO | Collection company_docs already exists
+2025-02-04 10:42:42 | INFO | Successfully connected to Qdrant Cloud
+2025-02-04 10:42:58 | INFO | Logger initialized - Info Mode
+2025-02-04 10:42:58 | WARNING | Logger initialized - Warning Mode
+2025-02-04 10:43:03 | INFO | Collection company_docs already exists
+2025-02-04 10:43:03 | INFO | Successfully connected to Qdrant Cloud
+2025-02-04 10:43:04 | INFO | Starting up the application...
+2025-02-04 10:43:04 | INFO | All services initialized successfully
+2025-02-04 10:43:55 | INFO | Request completed
+2025-02-04 10:43:55 | INFO | Request: GET /docs Process Time: 0.012s Status: 200
+2025-02-04 10:43:56 | INFO | Request completed
+2025-02-04 10:43:56 | INFO | Request: GET /openapi.json Process Time: 0.070s Status: 200
+2025-02-04 10:47:31 | INFO | Request completed
+2025-02-04 10:47:31 | INFO | Request: POST /api/documents/process Process Time: 0.009s Status: 422
+2025-02-04 10:47:33 | INFO | Request completed
+2025-02-04 10:47:33 | INFO | Request: POST /api/documents/process Process Time: 0.008s Status: 422
+2025-02-04 11:43:04 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_114304.json'
+2025-02-04 11:43:04 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_114304.json'
+2025-02-04 11:43:04 | INFO | Metrics exported to metrics_20250204_114304.json
+2025-02-04 12:43:04 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_124304.json'
+2025-02-04 12:43:04 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_124304.json'
+2025-02-04 12:43:04 | INFO | Metrics exported to metrics_20250204_124304.json
+2025-02-04 13:43:04 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_134304.json'
+2025-02-04 13:43:04 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_134304.json'
+2025-02-04 13:43:04 | INFO | Metrics exported to metrics_20250204_134304.json
+2025-02-04 14:43:04 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_144304.json'
+2025-02-04 14:43:04 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_144304.json'
+2025-02-04 14:43:05 | INFO | Metrics exported to metrics_20250204_144304.json
+2025-02-04 15:43:04 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_154304.json'
+2025-02-04 15:43:05 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_154305.json'
+2025-02-04 15:43:05 | INFO | Metrics exported to metrics_20250204_154305.json
+2025-02-04 16:34:32 | INFO | Shutting down the application...
+2025-02-04 16:34:32 | INFO | Metrics exported to final_metrics.json
+2025-02-04 16:34:32 | INFO | Cleanup completed successfully
+2025-02-04 16:34:42 | INFO | Logger initialized - Info Mode
+2025-02-04 16:34:42 | WARNING | Logger initialized - Warning Mode
+2025-02-04 16:34:54 | INFO | Collection company_docs already exists
+2025-02-04 16:34:54 | INFO | Successfully connected to Qdrant Cloud
+2025-02-04 16:34:56 | INFO | Starting up the application...
+2025-02-04 16:34:56 | INFO | All services initialized successfully
+2025-02-04 16:35:57 | INFO | Shutting down the application...
+2025-02-04 16:35:57 | INFO | Metrics exported to final_metrics.json
+2025-02-04 16:35:57 | INFO | Cleanup completed successfully
+2025-02-04 16:36:02 | INFO | Logger initialized - Info Mode
+2025-02-04 16:36:02 | WARNING | Logger initialized - Warning Mode
+2025-02-04 16:36:08 | INFO | Collection company_docs already exists
+2025-02-04 16:36:08 | INFO | Successfully connected to Qdrant Cloud
+2025-02-04 16:36:09 | INFO | Starting up the application...
+2025-02-04 16:36:09 | INFO | All services initialized successfully
+2025-02-04 19:36:39 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_193637.json'
+2025-02-04 19:36:39 | INFO | Metrics exported to metrics_20250204_193639.json
+2025-02-04 19:36:39 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_193639.json'
+2025-02-04 21:01:59 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_210158.json'
+2025-02-04 21:01:59 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_210159.json'
+2025-02-04 21:02:00 | INFO | Metrics exported to metrics_20250204_210200.json
+2025-02-05 00:39:26 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_003925.json'
+2025-02-05 00:39:26 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_003926.json'
+2025-02-05 00:39:26 | INFO | Metrics exported to metrics_20250205_003926.json
+2025-02-05 10:34:22 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_103422.json'
+2025-02-05 10:34:22 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_103422.json'
+2025-02-05 10:34:22 | INFO | Metrics exported to metrics_20250205_103422.json
+2025-02-05 11:34:22 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_113422.json'
+2025-02-05 11:34:23 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_113423.json'
+2025-02-05 11:34:23 | INFO | Metrics exported to metrics_20250205_113423.json
+2025-02-05 12:34:23 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_123423.json'
+2025-02-05 12:34:23 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_123423.json'
+2025-02-05 12:34:23 | INFO | Metrics exported to metrics_20250205_123423.json
+2025-02-05 15:05:52 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_150552.json'
+2025-02-05 15:05:52 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_150552.json'
+2025-02-05 15:05:52 | INFO | Metrics exported to metrics_20250205_150552.json
+2025-02-05 15:24:25 | INFO | Shutting down the application...
+2025-02-05 15:24:25 | INFO | Metrics exported to final_metrics.json
+2025-02-05 15:24:25 | INFO | Cleanup completed successfully
+2025-02-05 15:24:31 | INFO | Logger initialized - Info Mode
+2025-02-05 15:24:31 | WARNING | Logger initialized - Warning Mode
+2025-02-05 15:24:39 | INFO | Collection company_docs already exists
+2025-02-05 15:24:39 | INFO | Successfully connected to Qdrant Cloud
+2025-02-05 15:24:40 | INFO | Starting up the application...
+2025-02-05 15:24:40 | INFO | All services initialized successfully
+2025-02-05 15:24:41 | INFO | Request completed
+2025-02-05 15:24:41 | INFO | Request: GET /docs Process Time: 0.011s Status: 200
+2025-02-05 15:24:41 | INFO | Request completed
+2025-02-05 15:24:41 | INFO | Request: GET /openapi.json Process Time: 0.049s Status: 200
+2025-02-05 15:25:07 | INFO | Shutting down the application...
+2025-02-05 15:25:07 | INFO | Metrics exported to final_metrics.json
+2025-02-05 15:25:07 | INFO | Cleanup completed successfully
+2025-02-05 15:25:12 | INFO | Logger initialized - Info Mode
+2025-02-05 15:25:12 | WARNING | Logger initialized - Warning Mode
+2025-02-05 15:25:18 | INFO | Collection company_docs already exists
+2025-02-05 15:25:18 | INFO | Successfully connected to Qdrant Cloud
+2025-02-05 15:25:18 | INFO | Starting up the application...
+2025-02-05 15:25:18 | INFO | All services initialized successfully
+2025-02-05 15:31:04 | INFO | Successfully processed 500KW & 917kWH Containerized Light Storage Integrated Energy Storage System English version.pdf into 1496 chunks
+2025-02-05 15:31:09 | INFO | Successfully processed Chef Obehi.pdf into 23 chunks
+2025-02-05 15:31:09 | INFO | Successfully processed Head Office-1.pdf into 0 chunks
+2025-02-05 15:31:11 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:31:11 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:31:11 | INFO | Request completed
+2025-02-05 15:31:11 | INFO | Request: POST /api/documents/process Process Time: 1.494s Status: 200
+2025-02-05 15:31:11 | INFO | Successfully processed Head Office-2.pdf into 0 chunks
+2025-02-05 15:31:16 | INFO | Stored 23 embeddings in Qdrant Cloud
+2025-02-05 15:31:16 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:31:16 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:31:16 | INFO | Request completed
+2025-02-05 15:31:16 | INFO | Request completed
+2025-02-05 15:31:16 | INFO | Request: POST /api/documents/process Process Time: 11.752s Status: 200
+2025-02-05 15:31:16 | INFO | Request: POST /api/documents/process Process Time: 5.588s Status: 200
+2025-02-05 15:31:16 | INFO | Successfully processed Head Office.pdf into 0 chunks
+2025-02-05 15:31:18 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:31:18 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:31:18 | INFO | Request completed
+2025-02-05 15:31:18 | INFO | Request: POST /api/documents/process Process Time: 1.789s Status: 200
+2025-02-05 15:31:18 | INFO | Successfully processed Head Warehouse Close Workshop Office.pdf into 0 chunks
+2025-02-05 15:31:19 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:31:19 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:31:19 | INFO | Request completed
+2025-02-05 15:31:19 | INFO | Request: POST /api/documents/process Process Time: 1.199s Status: 200
+2025-02-05 15:31:23 | INFO | Successfully processed JeGO 5 series EV Charger.pdf into 1 chunks
+2025-02-05 15:31:24 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-05 15:31:24 | INFO | Request completed
+2025-02-05 15:31:24 | INFO | Request: POST /api/documents/process Process Time: 5.326s Status: 200
+2025-02-05 15:34:27 | INFO | Successfully processed JeGO 500KW & 930WH Containerized Light Storage Integrated Energy Storage System English version_compressed_compressed.pdf into 1500 chunks
+2025-02-05 15:34:27 | ERROR | Request failed
+2025-02-05 15:34:27 | ERROR | Request failed
+2025-02-05 15:34:27 | ERROR | Request failed
+2025-02-05 15:34:27 | ERROR | Request failed
+2025-02-05 15:34:27 | ERROR | Request failed
+2025-02-05 15:34:27 | ERROR | Request failed
+2025-02-05 15:34:27 | ERROR | Request failed
+2025-02-05 15:34:27 | ERROR | Request failed
+2025-02-05 15:34:27 | ERROR | Request failed
+2025-02-05 15:34:27 | ERROR | Request failed
+2025-02-05 15:34:27 | ERROR | Request failed
+2025-02-05 15:34:27 | ERROR | Request failed
+2025-02-05 15:34:27 | ERROR | Request failed
+2025-02-05 15:34:27 | ERROR | Request failed
+2025-02-05 15:34:27 | ERROR | Request failed
+2025-02-05 15:34:27 | ERROR | Request failed
+2025-02-05 15:34:27 | ERROR | Request failed
+2025-02-05 15:34:27 | ERROR | Request failed
+2025-02-05 15:34:27 | ERROR | Request failed
+2025-02-05 15:34:27 | ERROR | Request failed
+2025-02-05 15:34:27 | ERROR | Request failed
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.141s Error: No response returned.
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.143s Error: No response returned.
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.143s Error: No response returned.
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.145s Error: No response returned.
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.145s Error: No response returned.
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.147s Error: No response returned.
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.147s Error: No response returned.
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.152s Error: No response returned.
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.153s Error: No response returned.
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.154s Error: No response returned.
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.156s Error: No response returned.
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.158s Error: No response returned.
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.159s Error: No response returned.
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.160s Error: No response returned.
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.161s Error: No response returned.
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.162s Error: No response returned.
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.165s Error: No response returned.
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.167s Error: No response returned.
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.169s Error: No response returned.
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.169s Error: No response returned.
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.171s Error: No response returned.
+2025-02-05 15:34:40 | ERROR | Failed to store embeddings: Server disconnected without sending a response.
+2025-02-05 15:34:41 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-05 15:34:41 | ERROR | Failed to create embeddings: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 2525237. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2025-02-05 15:34:41 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 2525237. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2025-02-05 15:34:41 | INFO | Request completed
+2025-02-05 15:34:41 | INFO | Request completed
+2025-02-05 15:34:41 | INFO | Request: POST /api/documents/process Process Time: 196.433s Status: 200
+2025-02-05 15:34:41 | INFO | Request: POST /api/documents/process Process Time: 223.798s Status: 200
+2025-02-05 15:35:10 | INFO | Shutting down the application...
+2025-02-05 15:35:10 | INFO | Metrics exported to final_metrics.json
+2025-02-05 15:35:10 | INFO | Cleanup completed successfully
+2025-02-05 15:35:16 | INFO | Logger initialized - Info Mode
+2025-02-05 15:35:16 | WARNING | Logger initialized - Warning Mode
+2025-02-05 15:35:21 | INFO | Collection company_docs already exists
+2025-02-05 15:35:21 | INFO | Successfully connected to Qdrant Cloud
+2025-02-05 15:35:22 | INFO | Starting up the application...
+2025-02-05 15:35:22 | INFO | All services initialized successfully
+2025-02-05 15:35:40 | INFO | Successfully processed 500KW & 917kWH Containerized Light Storage Integrated Energy Storage System English version.pdf into 1496 chunks
+2025-02-05 15:35:59 | ERROR | Failed to create embeddings: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 2525237. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2025-02-05 15:35:59 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 2525237. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2025-02-05 15:35:59 | INFO | Request completed
+2025-02-05 15:35:59 | INFO | Request: POST /api/documents/process Process Time: 26.160s Status: 200
+2025-02-05 15:36:05 | INFO | Successfully processed Chef Obehi.pdf into 23 chunks
+2025-02-05 15:36:10 | INFO | Stored 23 embeddings in Qdrant Cloud
+2025-02-05 15:36:10 | INFO | Request completed
+2025-02-05 15:36:10 | INFO | Request: POST /api/documents/process Process Time: 11.426s Status: 200
+2025-02-05 15:36:10 | INFO | Successfully processed Head Office-1.pdf into 0 chunks
+2025-02-05 15:36:11 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:36:11 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:36:11 | INFO | Request completed
+2025-02-05 15:36:11 | INFO | Request: POST /api/documents/process Process Time: 0.889s Status: 200
+2025-02-05 15:36:11 | INFO | Successfully processed Head Office-2.pdf into 0 chunks
+2025-02-05 15:36:12 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:36:12 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:36:12 | INFO | Request completed
+2025-02-05 15:36:12 | INFO | Request: POST /api/documents/process Process Time: 0.541s Status: 200
+2025-02-05 15:36:12 | INFO | Successfully processed Head Office.pdf into 0 chunks
+2025-02-05 15:36:13 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:36:13 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:36:13 | INFO | Request completed
+2025-02-05 15:36:13 | INFO | Request: POST /api/documents/process Process Time: 1.290s Status: 200
+2025-02-05 15:36:13 | INFO | Successfully processed Head Warehouse Close Workshop Office.pdf into 0 chunks
+2025-02-05 15:36:17 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:36:17 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:36:17 | INFO | Request completed
+2025-02-05 15:36:17 | INFO | Request: POST /api/documents/process Process Time: 4.456s Status: 200
+2025-02-05 15:36:18 | INFO | Successfully processed JeGO 5 series EV Charger.pdf into 1 chunks
+2025-02-05 15:36:19 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-05 15:36:19 | INFO | Request completed
+2025-02-05 15:36:19 | INFO | Request: POST /api/documents/process Process Time: 2.137s Status: 200
+2025-02-05 15:38:37 | INFO | Successfully processed JeGO 500KW & 930WH Containerized Light Storage Integrated Energy Storage System English version_compressed_compressed.pdf into 1500 chunks
+2025-02-05 15:38:39 | INFO | Successfully processed JeGO Power Pods 5 series.pdf into 1 chunks
+2025-02-05 15:38:39 | ERROR | Request failed
+2025-02-05 15:38:39 | ERROR | Request failed
+2025-02-05 15:38:39 | ERROR | Request failed
+2025-02-05 15:38:39 | ERROR | Request failed: POST /api/documents/process Process Time: 1.659s Error: No response returned.
+2025-02-05 15:38:39 | ERROR | Request failed: POST /api/documents/process Process Time: 1.659s Error: No response returned.
+2025-02-05 15:38:39 | ERROR | Request failed: POST /api/documents/process Process Time: 1.660s Error: No response returned.
+2025-02-05 15:38:41 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-05 15:38:41 | INFO | Request completed
+2025-02-05 15:38:41 | INFO | Request: POST /api/documents/process Process Time: 3.438s Status: 200
+2025-02-05 15:38:45 | INFO | Successfully processed JeGO Skipper Truck.pdf into 12 chunks
+2025-02-05 15:38:49 | INFO | Stored 12 embeddings in Qdrant Cloud
+2025-02-05 15:38:49 | INFO | Request completed
+2025-02-05 15:38:49 | INFO | Request: POST /api/documents/process Process Time: 7.846s Status: 200
+2025-02-05 15:38:51 | ERROR | Failed to store embeddings: Server disconnected without sending a response.
+2025-02-05 15:38:51 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-05 15:38:51 | INFO | Request completed
+2025-02-05 15:38:58 | INFO | Successfully processed JeGO Skipper Van.pdf into 16 chunks
+2025-02-05 15:38:58 | INFO | Request: POST /api/documents/process Process Time: 159.002s Status: 200
+2025-02-05 15:39:02 | INFO | Stored 16 embeddings in Qdrant Cloud
+2025-02-05 15:39:02 | INFO | Request completed
+2025-02-05 15:39:02 | INFO | Request: POST /api/documents/process Process Time: 13.733s Status: 200
+2025-02-05 15:39:16 | INFO | Successfully processed JeGO Zero Pro.pdf into 55 chunks
+2025-02-05 15:39:25 | ERROR | Failed to store embeddings: The write operation timed out
+2025-02-05 15:39:25 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-05 15:39:25 | INFO | Request completed
+2025-02-05 15:39:25 | INFO | Request: POST /api/documents/process Process Time: 22.582s Status: 200
+2025-02-05 15:39:29 | INFO | Successfully processed JeGO.pdf into 34 chunks
+2025-02-05 15:39:34 | INFO | Stored 34 embeddings in Qdrant Cloud
+2025-02-05 15:39:34 | INFO | Request completed
+2025-02-05 15:39:34 | INFO | Request: POST /api/documents/process Process Time: 9.127s Status: 200
+2025-02-05 15:39:35 | INFO | Successfully processed JéGO Zero Carbon.pdf into 91 chunks
+2025-02-05 15:39:42 | ERROR | Failed to store embeddings: The write operation timed out
+2025-02-05 15:39:42 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-05 15:39:42 | INFO | Request completed
+2025-02-05 15:39:42 | INFO | Request: POST /api/documents/process Process Time: 7.370s Status: 200
+2025-02-05 15:39:42 | INFO | Successfully processed JéGO Zero Carbon__.pdf into 285 chunks
+2025-02-05 15:39:53 | ERROR | Failed to store embeddings: The write operation timed out
+2025-02-05 15:39:53 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-05 15:39:53 | INFO | Request completed
+2025-02-05 15:39:53 | INFO | Request: POST /api/documents/process Process Time: 11.252s Status: 200
+2025-02-05 15:39:58 | INFO | Successfully processed JéGO AI.pdf into 38 chunks
+2025-02-05 15:40:04 | INFO | Stored 38 embeddings in Qdrant Cloud
+2025-02-05 15:40:04 | INFO | Request completed
+2025-02-05 15:40:04 | INFO | Request: POST /api/documents/process Process Time: 10.780s Status: 200
+2025-02-05 15:40:13 | INFO | Successfully processed JéGO for Smart Cities.pdf into 64 chunks
+2025-02-05 15:40:21 | ERROR | Failed to store embeddings: The write operation timed out
+2025-02-05 15:40:21 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-05 15:40:21 | INFO | Request completed
+2025-02-05 15:40:21 | INFO | Request: POST /api/documents/process Process Time: 17.552s Status: 200
+2025-02-05 15:40:34 | INFO | Successfully processed JéGO for Steyn City.pdf into 61 chunks
+2025-02-05 15:40:42 | ERROR | Failed to store embeddings: The write operation timed out
+2025-02-05 15:40:42 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-05 15:40:42 | INFO | Request completed
+2025-02-05 15:40:42 | INFO | Request: POST /api/documents/process Process Time: 21.056s Status: 200
+2025-02-05 15:40:43 | INFO | Successfully processed JéGO Pods Product Intro.pdf into 1 chunks
+2025-02-05 15:40:45 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-05 15:40:45 | INFO | Request completed
+2025-02-05 15:40:45 | INFO | Request: POST /api/documents/process Process Time: 2.373s Status: 200
+2025-02-05 15:40:45 | INFO | Successfully processed JéGO Product Quotation.pdf into 0 chunks
+2025-02-05 15:40:46 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:40:46 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:40:46 | INFO | Request completed
+2025-02-05 15:40:46 | INFO | Request: POST /api/documents/process Process Time: 1.038s Status: 200
+2025-02-05 15:40:57 | INFO | Successfully processed JéGO(Mega Power Pod)1.5Mwh_500KW_420kwp User Manual EN Version.pdf into 1935 chunks
+2025-02-05 15:41:16 | INFO | Successfully processed Quotation Rooftop Stands for Reiz Continental.pdf into 1 chunks
+2025-02-05 15:41:18 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-05 15:41:18 | INFO | Request completed
+2025-02-05 15:41:18 | INFO | Request: POST /api/documents/process Process Time: 2.156s Status: 200
+2025-02-05 15:41:19 | INFO | Successfully processed Sky Garden build out for (It has pergola on it) Reiz Continenetal.pdf into 1 chunks
+2025-02-05 15:41:20 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-05 15:41:20 | INFO | Request completed
+2025-02-05 15:41:20 | INFO | Request: POST /api/documents/process Process Time: 2.075s Status: 200
+2025-02-05 15:41:22 | INFO | Successfully processed Townhall Agenda Brief.pdf into 1 chunks
+2025-02-05 15:41:24 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-05 15:41:24 | INFO | Request completed
+2025-02-05 15:41:24 | INFO | Request: POST /api/documents/process Process Time: 3.702s Status: 200
+2025-02-05 15:41:32 | INFO | Successfully processed Townhall Agenda.pdf into 30 chunks
+2025-02-05 15:41:40 | ERROR | Failed to store embeddings: The write operation timed out
+2025-02-05 15:41:40 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-05 15:41:40 | INFO | Request completed
+2025-02-05 15:41:40 | INFO | Request: POST /api/documents/process Process Time: 15.533s Status: 200
+2025-02-05 15:41:40 | INFO | Successfully processed Warehouse Atera.pdf into 0 chunks
+2025-02-05 15:41:41 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:41:41 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:41:41 | INFO | Request completed
+2025-02-05 15:41:41 | INFO | Request: POST /api/documents/process Process Time: 1.125s Status: 200
+2025-02-05 15:42:17 | ERROR | Failed to create embeddings: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 5871924. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2025-02-05 15:42:17 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 5871924. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2025-02-05 15:42:17 | INFO | Request completed
+2025-02-05 15:42:17 | INFO | Request: POST /api/documents/process Process Time: 91.049s Status: 200
+2025-02-05 15:44:15 | INFO | Shutting down the application...
+2025-02-05 15:44:15 | INFO | Metrics exported to final_metrics.json
+2025-02-05 15:44:15 | INFO | Cleanup completed successfully
+2025-02-05 15:44:21 | INFO | Logger initialized - Info Mode
+2025-02-05 15:44:21 | WARNING | Logger initialized - Warning Mode
+2025-02-05 15:44:26 | INFO | Collection company_docs already exists
+2025-02-05 15:44:26 | INFO | Successfully connected to Qdrant Cloud
+2025-02-05 15:44:27 | INFO | Starting up the application...
+2025-02-05 15:44:27 | INFO | All services initialized successfully
+2025-02-05 15:44:53 | INFO | Successfully processed 500KW & 917kWH Containerized Light Storage Integrated Energy Storage System English version.pdf into 1496 chunks
+2025-02-05 15:45:10 | ERROR | Failed to create embeddings: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 2525237. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2025-02-05 15:45:10 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 2525237. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2025-02-05 15:45:10 | INFO | Request completed
+2025-02-05 15:45:10 | INFO | Request: POST /api/documents/process Process Time: 26.208s Status: 200
+2025-02-05 15:45:18 | INFO | Successfully processed Chef Obehi.pdf into 23 chunks
+2025-02-05 15:45:22 | INFO | Stored 23 embeddings in Qdrant Cloud
+2025-02-05 15:45:22 | INFO | Request completed
+2025-02-05 15:45:22 | INFO | Request: POST /api/documents/process Process Time: 9.739s Status: 200
+2025-02-05 15:45:24 | INFO | Successfully processed Head Office-1.pdf into 0 chunks
+2025-02-05 15:45:25 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:45:25 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:45:25 | INFO | Request completed
+2025-02-05 15:45:25 | INFO | Request: POST /api/documents/process Process Time: 1.056s Status: 200
+2025-02-05 15:45:27 | INFO | Successfully processed Head Office-2.pdf into 0 chunks
+2025-02-05 15:45:28 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:45:28 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:45:28 | INFO | Request completed
+2025-02-05 15:45:28 | INFO | Request: POST /api/documents/process Process Time: 1.002s Status: 200
+2025-02-05 15:45:30 | INFO | Successfully processed Head Office.pdf into 0 chunks
+2025-02-05 15:45:31 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:45:31 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:45:31 | INFO | Request completed
+2025-02-05 15:45:31 | INFO | Request: POST /api/documents/process Process Time: 0.768s Status: 200
+2025-02-05 15:45:33 | INFO | Successfully processed Head Warehouse Close Workshop Office.pdf into 0 chunks
+2025-02-05 15:45:34 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:45:34 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:45:34 | INFO | Request completed
+2025-02-05 15:45:34 | INFO | Request: POST /api/documents/process Process Time: 0.971s Status: 200
+2025-02-05 15:45:36 | INFO | Successfully processed JeGO 5 series EV Charger.pdf into 1 chunks
+2025-02-05 15:45:38 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-05 15:45:38 | INFO | Request completed
+2025-02-05 15:45:38 | INFO | Request: POST /api/documents/process Process Time: 1.867s Status: 200
+2025-02-05 15:47:12 | INFO | Successfully processed JeGO 500KW & 930WH Containerized Light Storage Integrated Energy Storage System English version_compressed_compressed.pdf into 1500 chunks
+2025-02-05 15:47:26 | ERROR | Failed to store embeddings: Server disconnected without sending a response.
+2025-02-05 15:47:26 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-05 15:47:26 | INFO | Request completed
+2025-02-05 15:47:26 | INFO | Request: POST /api/documents/process Process Time: 106.165s Status: 200
+2025-02-05 15:47:36 | INFO | Successfully processed JeGO and Moove.pdf into 59 chunks
+2025-02-05 15:47:45 | ERROR | Failed to store embeddings: The write operation timed out
+2025-02-05 15:47:45 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-05 15:47:45 | INFO | Request completed
+2025-02-05 15:47:45 | INFO | Request: POST /api/documents/process Process Time: 17.221s Status: 200
+2025-02-05 15:47:48 | INFO | Successfully processed JeGO Charger Systems.pdf into 1 chunks
+2025-02-05 15:47:49 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-05 15:47:49 | INFO | Request completed
+2025-02-05 15:47:49 | INFO | Request: POST /api/documents/process Process Time: 1.881s Status: 200
+2025-02-05 15:47:54 | INFO | Successfully processed JeGO Pods Product Intro 2023 EN-3_compressed.pdf into 149 chunks
+2025-02-05 15:48:06 | ERROR | Failed to store embeddings: The write operation timed out
+2025-02-05 15:48:06 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-05 15:48:06 | INFO | Request completed
+2025-02-05 15:48:06 | INFO | Request: POST /api/documents/process Process Time: 14.283s Status: 200
+2025-02-05 15:48:09 | INFO | Successfully processed JeGO Power Pods 5 series.pdf into 1 chunks
+2025-02-05 15:48:12 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-05 15:48:12 | INFO | Request completed
+2025-02-05 15:48:12 | INFO | Request: POST /api/documents/process Process Time: 4.736s Status: 200
+2025-02-05 15:48:17 | INFO | Successfully processed JeGO Skipper Truck.pdf into 12 chunks
+2025-02-05 15:48:20 | INFO | Stored 12 embeddings in Qdrant Cloud
+2025-02-05 15:48:20 | INFO | Request completed
+2025-02-05 15:48:20 | INFO | Request: POST /api/documents/process Process Time: 5.912s Status: 200
+2025-02-05 15:48:25 | INFO | Successfully processed JeGO Skipper Van.pdf into 16 chunks
+2025-02-05 15:48:34 | INFO | Stored 16 embeddings in Qdrant Cloud
+2025-02-05 15:48:34 | INFO | Request completed
+2025-02-05 15:48:34 | INFO | Request: POST /api/documents/process Process Time: 11.993s Status: 200
+2025-02-05 15:48:43 | INFO | Successfully processed JeGO Zero Pro.pdf into 55 chunks
+2025-02-05 15:48:53 | ERROR | Failed to store embeddings: The write operation timed out
+2025-02-05 15:48:53 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-05 15:48:53 | INFO | Request completed
+2025-02-05 15:48:53 | INFO | Request: POST /api/documents/process Process Time: 16.305s Status: 200
+2025-02-05 15:48:57 | INFO | Successfully processed JeGO.pdf into 34 chunks
+2025-02-05 15:49:04 | INFO | Stored 34 embeddings in Qdrant Cloud
+2025-02-05 15:49:04 | INFO | Request completed
+2025-02-05 15:49:04 | INFO | Request: POST /api/documents/process Process Time: 9.879s Status: 200
+2025-02-05 15:49:07 | INFO | Successfully processed JéGO Zero Carbon.pdf into 91 chunks
+2025-02-05 15:49:15 | ERROR | Failed to store embeddings: The write operation timed out
+2025-02-05 15:49:15 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-05 15:49:15 | INFO | Request completed
+2025-02-05 15:49:15 | INFO | Request: POST /api/documents/process Process Time: 8.815s Status: 200
+2025-02-05 15:49:18 | INFO | Successfully processed JéGO Zero Carbon__.pdf into 285 chunks
+2025-02-05 15:49:28 | ERROR | Failed to store embeddings: The write operation timed out
+2025-02-05 15:49:28 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-05 15:49:28 | INFO | Request completed
+2025-02-05 15:49:28 | INFO | Request: POST /api/documents/process Process Time: 10.228s Status: 200
+2025-02-05 15:49:34 | INFO | Successfully processed JéGO AI.pdf into 38 chunks
+2025-02-05 15:49:40 | INFO | Stored 38 embeddings in Qdrant Cloud
+2025-02-05 15:49:40 | INFO | Request completed
+2025-02-05 15:49:40 | INFO | Request: POST /api/documents/process Process Time: 10.184s Status: 200
+2025-02-05 15:49:49 | INFO | Successfully processed JéGO for Smart Cities.pdf into 64 chunks
+2025-02-05 15:50:01 | ERROR | Failed to store embeddings: The read operation timed out
+2025-02-05 15:50:01 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-05 15:50:01 | INFO | Request completed
+2025-02-05 15:50:01 | INFO | Request: POST /api/documents/process Process Time: 19.595s Status: 200
+2025-02-05 15:50:11 | INFO | Successfully processed JéGO for Steyn City.pdf into 61 chunks
+2025-02-05 15:50:15 | INFO | Stored 61 embeddings in Qdrant Cloud
+2025-02-05 15:50:15 | INFO | Request completed
+2025-02-05 15:50:15 | INFO | Request: POST /api/documents/process Process Time: 11.891s Status: 200
+2025-02-05 15:50:17 | INFO | Successfully processed JéGO Pods Product Intro.pdf into 1 chunks
+2025-02-05 15:50:18 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-05 15:50:18 | INFO | Request completed
+2025-02-05 15:50:18 | INFO | Request: POST /api/documents/process Process Time: 0.883s Status: 200
+2025-02-05 15:50:20 | INFO | Successfully processed JéGO Product Quotation.pdf into 0 chunks
+2025-02-05 15:50:21 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:50:21 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:50:21 | INFO | Request completed
+2025-02-05 15:50:21 | INFO | Request: POST /api/documents/process Process Time: 0.362s Status: 200
+2025-02-05 15:50:29 | INFO | Successfully processed JéGO(Mega Power Pod)1.5Mwh_500KW_420kwp User Manual EN Version.pdf into 1935 chunks
+2025-02-05 15:50:50 | ERROR | Failed to create embeddings: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 5871924. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2025-02-05 15:50:50 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 5871924. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2025-02-05 15:50:50 | INFO | Request completed
+2025-02-05 15:50:50 | INFO | Request: POST /api/documents/process Process Time: 27.223s Status: 200
+2025-02-05 15:50:52 | INFO | Successfully processed Quotation Rooftop Stands for Reiz Continental.pdf into 1 chunks
+2025-02-05 15:50:53 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-05 15:50:53 | INFO | Request completed
+2025-02-05 15:50:53 | INFO | Request: POST /api/documents/process Process Time: 1.610s Status: 200
+2025-02-05 15:50:56 | INFO | Successfully processed Sky Garden build out for (It has pergola on it) Reiz Continenetal.pdf into 1 chunks
+2025-02-05 15:50:57 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-05 15:50:57 | INFO | Request completed
+2025-02-05 15:50:57 | INFO | Request: POST /api/documents/process Process Time: 1.590s Status: 200
+2025-02-05 15:51:00 | INFO | Successfully processed Townhall Agenda Brief.pdf into 1 chunks
+2025-02-05 15:51:01 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-05 15:51:01 | INFO | Request completed
+2025-02-05 15:51:01 | INFO | Request: POST /api/documents/process Process Time: 2.054s Status: 200
+2025-02-05 15:51:07 | INFO | Successfully processed Townhall Agenda.pdf into 30 chunks
+2025-02-05 15:51:11 | INFO | Stored 30 embeddings in Qdrant Cloud
+2025-02-05 15:51:11 | INFO | Request completed
+2025-02-05 15:51:11 | INFO | Request: POST /api/documents/process Process Time: 7.541s Status: 200
+2025-02-05 15:51:13 | INFO | Successfully processed Warehouse Atera.pdf into 0 chunks
+2025-02-05 15:51:16 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:51:16 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-05 15:51:16 | INFO | Request completed
+2025-02-05 15:51:16 | INFO | Request: POST /api/documents/process Process Time: 3.528s Status: 200
+2025-02-05 15:52:43 | INFO | Request completed
+2025-02-05 15:52:43 | INFO | Request: GET /docs Process Time: 0.007s Status: 200
+2025-02-05 15:52:43 | INFO | Request completed
+2025-02-05 15:52:43 | INFO | Request: GET /openapi.json Process Time: 0.062s Status: 200
+2025-02-05 15:55:25 | INFO | Request completed
+2025-02-05 15:55:25 | INFO | Request: POST /api/chat Process Time: 4.164s Status: 200
+2025-02-05 15:56:51 | INFO | Request completed
+2025-02-05 15:56:51 | INFO | Request: GET /api/analytics/summary Process Time: 0.014s Status: 200
+2025-02-05 15:58:56 | INFO | Request completed
+2025-02-05 15:58:56 | INFO | Request: GET /api/health Process Time: 2.194s Status: 200
+2025-02-05 16:00:53 | INFO | Request completed
+2025-02-05 16:00:53 | INFO | Request: GET /api/analytics/usage Process Time: 0.010s Status: 200
+2025-02-05 16:00:56 | INFO | Request completed
+2025-02-05 16:00:56 | INFO | Request: GET /api/analytics/usage Process Time: 0.009s Status: 200
+2025-02-05 16:44:27 | INFO | Metrics exported to metrics_20250205_164427.json
+2025-02-05 16:44:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_164427.json'
+2025-02-05 16:44:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_164427.json'
+2025-02-05 17:44:27 | INFO | Metrics exported to metrics_20250205_174427.json
+2025-02-05 17:44:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_174427.json'
+2025-02-05 17:44:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_174427.json'
+2025-02-05 18:44:27 | INFO | Metrics exported to metrics_20250205_184427.json
+2025-02-05 18:44:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_184427.json'
+2025-02-05 18:44:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_184427.json'
+2025-02-05 19:07:35 | INFO | Shutting down the application...
+2025-02-05 19:07:35 | INFO | Metrics exported to final_metrics.json
+2025-02-05 19:07:35 | INFO | Cleanup completed successfully
+2025-02-05 19:07:42 | INFO | Logger initialized - Info Mode
+2025-02-05 19:07:42 | WARNING | Logger initialized - Warning Mode
+2025-02-05 19:07:48 | INFO | Collection company_docs already exists
+2025-02-05 19:07:48 | INFO | Successfully connected to Qdrant Cloud
+2025-02-05 19:07:49 | INFO | Starting up the application...
+2025-02-05 19:07:49 | INFO | All services initialized successfully
+2025-02-05 19:08:02 | INFO | Request completed
+2025-02-05 19:08:02 | INFO | Request: GET /docs Process Time: 0.009s Status: 200
+2025-02-05 19:08:03 | INFO | Request completed
+2025-02-05 19:08:03 | INFO | Request: GET /openapi.json Process Time: 0.050s Status: 200
+2025-02-05 19:08:44 | ERROR | Failed to get collection info: 2 validation errors for ParsingModel[InlineResponse2005] (for parse_as_type)
+obj.result.config.optimizer_config.max_optimization_threads
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+obj.result.config.strict_mode_config
+  Extra inputs are not permitted [type=extra_forbidden, input_value={'enabled': False}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/extra_forbidden
+2025-02-05 19:08:44 | ERROR | Error getting document status: Vector store error: Failed to get collection info
+2025-02-05 19:08:44 | INFO | Request completed
+2025-02-05 19:08:44 | INFO | Request: GET /api/documents/status Process Time: 0.561s Status: 200
+2025-02-05 19:09:45 | WARNING | Slow response time detected: 5.10s
+2025-02-05 19:09:45 | INFO | Request completed
+2025-02-05 19:09:45 | INFO | Request: POST /api/chat Process Time: 5.116s Status: 200
+2025-02-05 19:10:04 | ERROR | Failed to get collection info: 2 validation errors for ParsingModel[InlineResponse2005] (for parse_as_type)
+obj.result.config.optimizer_config.max_optimization_threads
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+obj.result.config.strict_mode_config
+  Extra inputs are not permitted [type=extra_forbidden, input_value={'enabled': False}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/extra_forbidden
+2025-02-05 19:10:04 | ERROR | Error getting document status: Vector store error: Failed to get collection info
+2025-02-05 19:10:04 | INFO | Request completed
+2025-02-05 19:10:04 | INFO | Request: GET /api/documents/status Process Time: 0.556s Status: 200
+2025-02-05 19:11:27 | INFO | Request completed
+2025-02-05 19:11:27 | INFO | Request: GET /api/vector-search/test Process Time: 2.021s Status: 200
+2025-02-05 19:16:44 | INFO | Request completed
+2025-02-05 19:16:44 | INFO | Request: POST /api/chat Process Time: 4.079s Status: 200
+2025-02-05 19:17:23 | INFO | Request completed
+2025-02-05 19:17:23 | INFO | Request: POST /api/chat Process Time: 2.965s Status: 200
+2025-02-05 19:17:58 | INFO | Request completed
+2025-02-05 19:17:58 | INFO | Request: POST /api/chat Process Time: 3.295s Status: 200
+2025-02-05 19:18:21 | INFO | Request completed
+2025-02-05 19:18:21 | INFO | Request: POST /api/chat Process Time: 3.048s Status: 200
+2025-02-05 19:23:58 | INFO | Shutting down the application...
+2025-02-05 19:23:58 | INFO | Metrics exported to final_metrics.json
+2025-02-05 19:23:58 | INFO | Cleanup completed successfully
+2025-02-05 19:24:06 | INFO | Logger initialized - Info Mode
+2025-02-05 19:24:06 | WARNING | Logger initialized - Warning Mode
+2025-02-05 19:24:11 | INFO | Collection company_docs already exists
+2025-02-05 19:24:11 | INFO | Successfully connected to Qdrant Cloud
+2025-02-05 19:24:12 | INFO | Starting up the application...
+2025-02-05 19:24:12 | INFO | All services initialized successfully
+2025-02-05 19:24:16 | INFO | Request completed
+2025-02-05 19:24:16 | INFO | Request: POST /api/chat Process Time: 3.742s Status: 200
+2025-02-05 19:25:18 | INFO | Request completed
+2025-02-05 19:25:18 | INFO | Request: POST /api/chat Process Time: 4.597s Status: 200
+2025-02-05 19:25:40 | ERROR | Failed to get collection info: 2 validation errors for ParsingModel[InlineResponse2005] (for parse_as_type)
+obj.result.config.optimizer_config.max_optimization_threads
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+obj.result.config.strict_mode_config
+  Extra inputs are not permitted [type=extra_forbidden, input_value={'enabled': False}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/extra_forbidden
+2025-02-05 19:25:40 | ERROR | Error getting document status: Vector store error: Failed to get collection info
+2025-02-05 19:25:40 | INFO | Request completed
+2025-02-05 19:25:40 | INFO | Request: GET /api/documents/status Process Time: 0.545s Status: 200
+2025-02-05 19:26:00 | INFO | Request completed
+2025-02-05 19:26:00 | INFO | Request: GET /api/health Process Time: 1.375s Status: 200
+2025-02-05 19:26:09 | INFO | Request completed
+2025-02-05 19:26:09 | INFO | Request: GET /api/analytics/summary Process Time: 0.017s Status: 200
+2025-02-05 19:26:22 | INFO | Request completed
+2025-02-05 19:26:22 | INFO | Request: GET /api/analytics/response-times Process Time: 0.012s Status: 200
+2025-02-05 19:26:39 | INFO | Request completed
+2025-02-05 19:26:39 | INFO | Request: GET /api/analytics/confidence Process Time: 0.011s Status: 200
+2025-02-05 19:27:16 | INFO | Request completed
+2025-02-05 19:27:16 | INFO | Request: POST /api/chat Process Time: 4.152s Status: 200
+2025-02-05 19:27:43 | INFO | Request completed
+2025-02-05 19:27:43 | INFO | Request: POST /api/chat Process Time: 3.532s Status: 200
+2025-02-05 19:28:10 | INFO | Request completed
+2025-02-05 19:28:10 | INFO | Request: POST /api/chat Process Time: 2.770s Status: 200
+2025-02-05 19:30:07 | INFO | Request completed
+2025-02-05 19:30:07 | INFO | Request: POST /api/chat Process Time: 0.013s Status: 422
+2025-02-05 19:30:27 | WARNING | Slow response time detected: 5.80s
+2025-02-05 19:30:27 | INFO | Request completed
+2025-02-05 19:30:27 | INFO | Request: POST /api/chat Process Time: 5.811s Status: 200
+2025-02-05 19:42:44 | INFO | Request completed
+2025-02-05 19:42:44 | INFO | Request: GET /docs Process Time: 0.169s Status: 200
+2025-02-05 19:42:44 | INFO | Shutting down the application...
+2025-02-05 19:42:44 | INFO | Metrics exported to final_metrics.json
+2025-02-05 19:42:44 | INFO | Cleanup completed successfully
+2025-02-05 19:43:02 | INFO | Logger initialized - Info Mode
+2025-02-05 19:43:02 | WARNING | Logger initialized - Warning Mode
+2025-02-05 19:43:10 | INFO | Collection company_docs already exists
+2025-02-05 19:43:10 | INFO | Successfully connected to Qdrant Cloud
+2025-02-05 19:43:11 | INFO | Starting up the application...
+2025-02-05 19:43:11 | INFO | All services initialized successfully
+2025-02-05 19:43:12 | INFO | Request completed
+2025-02-05 19:43:12 | INFO | Request: GET /openapi.json Process Time: 0.049s Status: 200
+2025-02-05 19:45:41 | WARNING | Slow response time detected: 6.77s
+2025-02-05 19:45:41 | INFO | Request completed
+2025-02-05 19:45:41 | INFO | Request: POST /api/chat Process Time: 6.952s Status: 200
+2025-02-05 19:46:56 | INFO | Request completed
+2025-02-05 19:46:56 | INFO | Request: POST /api/chat Process Time: 4.301s Status: 200
+2025-02-05 19:47:29 | INFO | Request completed
+2025-02-05 19:47:29 | INFO | Request: GET /api/health Process Time: 2.179s Status: 200
+2025-02-05 19:48:38 | INFO | Request completed
+2025-02-05 19:48:38 | INFO | Request: GET /api/analytics/summary Process Time: 0.024s Status: 200
+2025-02-05 19:49:27 | WARNING | Slow response time detected: 9.77s
+2025-02-05 19:49:27 | INFO | Request completed
+2025-02-05 19:49:27 | INFO | Request: POST /api/chat Process Time: 9.789s Status: 200
+2025-02-05 19:49:53 | INFO | Request completed
+2025-02-05 19:49:53 | INFO | Request: GET /api/analytics/summary Process Time: 0.019s Status: 200
+2025-02-05 19:50:16 | INFO | Request completed
+2025-02-05 19:50:16 | INFO | Request: POST /api/chat Process Time: 3.512s Status: 200
+2025-02-05 19:50:35 | INFO | Request completed
+2025-02-05 19:50:35 | INFO | Request: POST /api/chat Process Time: 3.585s Status: 200
+2025-02-05 19:51:05 | INFO | Request completed
+2025-02-05 19:51:05 | INFO | Request: POST /api/chat Process Time: 3.565s Status: 200
+2025-02-05 19:51:31 | INFO | Request completed
+2025-02-05 19:51:31 | INFO | Request: POST /api/chat Process Time: 3.260s Status: 200
+2025-02-05 19:52:02 | WARNING | Slow response time detected: 5.25s
+2025-02-05 19:52:02 | INFO | Request completed
+2025-02-05 19:52:02 | INFO | Request: POST /api/chat Process Time: 5.265s Status: 200
+2025-02-05 19:52:22 | ERROR | Failed to get chat completion: Error code: 400 - {'error': {'message': "This model's maximum context length is 16385 tokens. However, your messages resulted in 32464 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+2025-02-05 19:52:22 | ERROR | Error processing message: OpenAI error: Chat completion failed: Error code: 400 - {'error': {'message': "This model's maximum context length is 16385 tokens. However, your messages resulted in 32464 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+2025-02-05 19:52:22 | ERROR | Error in chat endpoint: Failed to process message: OpenAI error: Chat completion failed: Error code: 400 - {'error': {'message': "This model's maximum context length is 16385 tokens. However, your messages resulted in 32464 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+2025-02-05 19:52:22 | INFO | Request completed
+2025-02-05 19:52:22 | INFO | Request: POST /api/chat Process Time: 2.838s Status: 500
+2025-02-05 23:05:32 | INFO | Metrics exported to metrics_20250205_230531.json
+2025-02-05 23:05:33 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_230532.json'
+2025-02-05 23:05:33 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_230533.json'
+2025-02-06 09:33:38 | INFO | Metrics exported to metrics_20250206_093337.json
+2025-02-06 09:33:39 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250206_093339.json'
+2025-02-06 09:33:39 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250206_093339.json'
+2025-02-06 20:27:04 | INFO | Logger initialized - Info Mode
+2025-02-06 20:27:04 | WARNING | Logger initialized - Warning Mode
+2025-02-06 20:27:13 | INFO | Collection company_docs already exists
+2025-02-06 20:27:13 | INFO | Successfully connected to Qdrant Cloud
+2025-02-06 20:27:15 | INFO | Starting up the application...
+2025-02-06 20:27:15 | INFO | All services initialized successfully
+2025-02-06 20:55:58 | INFO | Logger initialized - Info Mode
+2025-02-06 20:55:58 | WARNING | Logger initialized - Warning Mode
+2025-02-06 20:56:13 | INFO | Collection company_docs already exists
+2025-02-06 20:56:13 | INFO | Successfully connected to Qdrant Cloud
+2025-02-06 20:56:15 | INFO | Starting up the application...
+2025-02-06 20:56:15 | INFO | All services initialized successfully
+2025-02-06 20:56:20 | INFO | Request completed
+2025-02-06 20:56:20 | INFO | Request: GET / Process Time: 0.019s Status: 404
+2025-02-06 20:56:20 | INFO | Request completed
+2025-02-06 20:56:20 | INFO | Request: GET /favicon.ico Process Time: 0.009s Status: 404
+2025-02-06 20:56:25 | INFO | Request completed
+2025-02-06 20:56:25 | INFO | Request: GET /docs Process Time: 0.001s Status: 200
+2025-02-06 20:56:26 | INFO | Request completed
+2025-02-06 20:56:26 | INFO | Request: GET /openapi.json Process Time: 0.059s Status: 200
+2025-02-06 21:22:24 | INFO | Request completed
+2025-02-06 21:22:24 | INFO | Request: GET /docs Process Time: 0.012s Status: 200
+2025-02-06 21:22:38 | INFO | Request completed
+2025-02-06 21:22:38 | INFO | Request: GET /openapi.json Process Time: 0.016s Status: 200
+2025-02-06 21:28:01 | WARNING | Slow response time detected: 13.11s
+2025-02-06 21:28:02 | INFO | Request completed
+2025-02-06 21:28:02 | INFO | Request: POST /api/chat Process Time: 13.604s Status: 200
+2025-02-06 21:28:35 | INFO | Request completed
+2025-02-06 21:28:35 | INFO | Request: POST /api/chat Process Time: 3.960s Status: 200
+2025-02-06 21:29:09 | INFO | Request completed
+2025-02-06 21:29:09 | INFO | Request: POST /api/chat Process Time: 4.256s Status: 200
+2025-02-06 21:29:47 | WARNING | Slow response time detected: 8.70s
+2025-02-06 21:29:47 | INFO | Request completed
+2025-02-06 21:29:47 | INFO | Request: POST /api/chat Process Time: 8.712s Status: 200
+2025-02-07 21:14:00 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250207_211359.json'
+2025-02-07 21:14:01 | INFO | Metrics exported to metrics_20250207_211401.json
+2025-02-07 21:14:01 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250207_211401.json'
+2025-02-08 00:44:05 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250208_004405.json'
+2025-02-08 00:44:07 | INFO | Metrics exported to metrics_20250208_004405.json
+2025-02-08 00:44:08 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250208_004408.json'
+2025-02-08 11:27:02 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250208_112702.json'
+2025-02-08 11:27:03 | INFO | Metrics exported to metrics_20250208_112703.json
+2025-02-08 11:27:03 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250208_112703.json'
+2025-02-08 12:27:03 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250208_122703.json'
+2025-02-08 12:27:03 | INFO | Metrics exported to metrics_20250208_122703.json
+2025-02-08 12:27:04 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250208_122704.json'
+2025-02-08 13:27:03 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250208_132703.json'
+2025-02-08 13:27:04 | INFO | Metrics exported to metrics_20250208_132704.json
+2025-02-08 13:27:04 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250208_132704.json'
+2025-02-08 17:19:43 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250208_171943.json'
+2025-02-08 17:19:44 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250208_171944.json'
+2025-02-08 17:19:44 | INFO | Metrics exported to metrics_20250208_171944.json
+2025-02-09 14:42:51 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250209_144250.json'
+2025-02-09 14:42:51 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250209_144251.json'
+2025-02-09 14:42:52 | INFO | Metrics exported to metrics_20250209_144251.json
+2025-02-11 12:18:11 | INFO | Logger initialized - Info Mode
+2025-02-11 12:18:11 | WARNING | Logger initialized - Warning Mode
+2025-02-11 12:18:17 | INFO | Collection company_docs already exists
+2025-02-11 12:18:17 | INFO | Successfully connected to Qdrant Cloud
+2025-02-11 12:18:18 | INFO | Starting up the application...
+2025-02-11 12:18:18 | INFO | All services initialized successfully
+2025-02-11 12:23:49 | INFO | Request completed
+2025-02-11 12:23:49 | INFO | Request: GET /docs Process Time: 0.000s Status: 200
+2025-02-11 12:23:49 | INFO | Request completed
+2025-02-11 12:23:49 | INFO | Request: GET /openapi.json Process Time: 0.031s Status: 200
+2025-02-11 12:24:20 | INFO | Shutting down the application...
+2025-02-11 12:24:20 | INFO | Metrics exported to final_metrics.json
+2025-02-11 12:24:20 | INFO | Cleanup completed successfully
+2025-02-11 12:24:28 | INFO | Logger initialized - Info Mode
+2025-02-11 12:24:28 | WARNING | Logger initialized - Warning Mode
+2025-02-11 12:24:33 | INFO | Collection company_docs already exists
+2025-02-11 12:24:33 | INFO | Successfully connected to Qdrant Cloud
+2025-02-11 12:24:33 | INFO | Starting up the application...
+2025-02-11 12:24:33 | INFO | All services initialized successfully
+2025-02-11 12:25:35 | INFO | Shutting down the application...
+2025-02-11 12:25:35 | INFO | Metrics exported to final_metrics.json
+2025-02-11 12:25:35 | INFO | Cleanup completed successfully
+2025-02-11 12:25:40 | INFO | Logger initialized - Info Mode
+2025-02-11 12:25:40 | WARNING | Logger initialized - Warning Mode
+2025-02-11 12:25:47 | INFO | Collection company_docs already exists
+2025-02-11 12:25:47 | INFO | Successfully connected to Qdrant Cloud
+2025-02-11 12:25:48 | INFO | Starting up the application...
+2025-02-11 12:25:48 | INFO | All services initialized successfully
+2025-02-11 12:25:49 | INFO | Request completed
+2025-02-11 12:25:49 | INFO | Request: GET /docs Process Time: 0.022s Status: 200
+2025-02-11 12:25:49 | INFO | Request completed
+2025-02-11 12:25:49 | INFO | Request: GET /openapi.json Process Time: 0.054s Status: 200
+2025-02-11 12:29:37 | INFO | Shutting down the application...
+2025-02-11 12:29:37 | INFO | Metrics exported to final_metrics.json
+2025-02-11 12:29:37 | INFO | Cleanup completed successfully
+2025-02-11 12:29:42 | INFO | Logger initialized - Info Mode
+2025-02-11 12:29:42 | WARNING | Logger initialized - Warning Mode
+2025-02-11 12:29:49 | INFO | Collection company_docs already exists
+2025-02-11 12:29:49 | INFO | Successfully connected to Qdrant Cloud
+2025-02-11 12:29:50 | INFO | Starting up the application...
+2025-02-11 12:29:50 | INFO | All services initialized successfully
+2025-02-11 12:29:50 | INFO | Request completed
+2025-02-11 12:29:50 | INFO | Request: GET /docs Process Time: 0.006s Status: 200
+2025-02-11 12:29:51 | INFO | Request completed
+2025-02-11 12:29:51 | INFO | Request: GET /openapi.json Process Time: 0.060s Status: 200
+2025-02-11 12:36:20 | INFO | Request completed
+2025-02-11 12:36:20 | INFO | Request: POST /api/chat Process Time: 3.579s Status: 200
+2025-02-11 12:36:56 | ERROR | Error getting session analysis: 404: No interactions found for session
+2025-02-11 12:36:56 | INFO | Request completed
+2025-02-11 12:36:56 | INFO | Request: GET /api/analysis/session/test1 Process Time: 0.016s Status: 500
+2025-02-11 12:37:00 | ERROR | Error getting session analysis: 404: No interactions found for session
+2025-02-11 12:37:00 | INFO | Request completed
+2025-02-11 12:37:00 | INFO | Request: GET /api/analysis/session/test1 Process Time: 0.013s Status: 500
+2025-02-11 12:37:32 | ERROR | Error getting global analysis: 404: No interactions recorded
+2025-02-11 12:37:32 | INFO | Request completed
+2025-02-11 12:37:32 | INFO | Request: GET /api/analysis/global Process Time: 0.131s Status: 500
+2025-02-11 12:39:50 | INFO | Shutting down the application...
+2025-02-11 12:39:50 | INFO | Metrics exported to final_metrics.json
+2025-02-11 12:39:50 | INFO | Cleanup completed successfully
+2025-02-11 12:39:55 | INFO | Logger initialized - Info Mode
+2025-02-11 12:39:55 | WARNING | Logger initialized - Warning Mode
+2025-02-11 12:40:00 | INFO | Collection company_docs already exists
+2025-02-11 12:40:00 | INFO | Successfully connected to Qdrant Cloud
+2025-02-11 12:40:01 | INFO | Starting up the application...
+2025-02-11 12:40:01 | INFO | All services initialized successfully
+2025-02-11 12:40:02 | INFO | Shutting down the application...
+2025-02-11 12:40:02 | INFO | Metrics exported to final_metrics.json
+2025-02-11 12:40:02 | INFO | Cleanup completed successfully
+2025-02-11 12:40:06 | INFO | Logger initialized - Info Mode
+2025-02-11 12:40:06 | WARNING | Logger initialized - Warning Mode
+2025-02-11 12:40:12 | INFO | Collection company_docs already exists
+2025-02-11 12:40:12 | INFO | Successfully connected to Qdrant Cloud
+2025-02-11 12:40:13 | INFO | Starting up the application...
+2025-02-11 12:40:13 | INFO | All services initialized successfully
+2025-02-11 12:41:21 | INFO | Request completed
+2025-02-11 12:41:21 | INFO | Request: GET /docs Process Time: 0.000s Status: 200
+2025-02-11 12:41:22 | INFO | Request completed
+2025-02-11 12:41:22 | INFO | Request: GET /openapi.json Process Time: 0.045s Status: 200
+2025-02-11 12:41:50 | INFO | Request completed
+2025-02-11 12:41:50 | INFO | Request: POST /api/chat Process Time: 3.580s Status: 200
+2025-02-11 12:42:25 | ERROR | Error getting session analysis: 404: No chat interactions found for session ID: test1. Please make some chat requests first.
+2025-02-11 12:42:25 | INFO | Request completed
+2025-02-11 12:42:25 | INFO | Request: GET /api/analysis/session/test1 Process Time: 0.005s Status: 500
+2025-02-11 12:44:04 | INFO | Request completed
+2025-02-11 12:44:04 | INFO | Request: GET /docs Process Time: 0.005s Status: 200
+2025-02-11 12:44:04 | INFO | Request completed
+2025-02-11 12:44:04 | INFO | Request: GET /openapi.json Process Time: 0.106s Status: 200
+2025-02-11 12:44:19 | INFO | Cache hit for message
+2025-02-11 12:44:19 | INFO | Request completed
+2025-02-11 12:44:19 | INFO | Request: POST /api/chat Process Time: 0.012s Status: 200
+2025-02-11 12:44:25 | INFO | Cache hit for message
+2025-02-11 12:44:25 | INFO | Request completed
+2025-02-11 12:44:25 | INFO | Request: POST /api/chat Process Time: 0.010s Status: 200
+2025-02-11 12:46:58 | ERROR | Error getting session analysis: 404: No chat interactions found for session ID: test1. Please make some chat requests first.
+2025-02-11 12:46:58 | INFO | Request completed
+2025-02-11 12:46:58 | INFO | Request: GET /api/analysis/session/test1 Process Time: 0.019s Status: 500
+2025-02-11 12:48:15 | INFO | Request completed
+2025-02-11 12:48:15 | INFO | Request: GET /api/health Process Time: 2.187s Status: 200
+2025-02-11 12:48:58 | ERROR | Failed to get collection info: 2 validation errors for ParsingModel[InlineResponse2005] (for parse_as_type)
+obj.result.config.optimizer_config.max_optimization_threads
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+obj.result.config.strict_mode_config
+  Extra inputs are not permitted [type=extra_forbidden, input_value={'enabled': False}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/extra_forbidden
+2025-02-11 12:48:58 | ERROR | Error getting document status: Vector store error: Failed to get collection info
+2025-02-11 12:48:58 | INFO | Request completed
+2025-02-11 12:48:58 | INFO | Request: GET /api/documents/status Process Time: 0.557s Status: 200
+2025-02-11 12:50:36 | INFO | Request completed
+2025-02-11 12:50:36 | INFO | Request: GET /docs Process Time: 0.009s Status: 200
+2025-02-11 12:50:36 | INFO | Request completed
+2025-02-11 12:50:36 | INFO | Request: GET /openapi.json Process Time: 0.012s Status: 200
+2025-02-11 12:51:38 | INFO | Request completed
+2025-02-11 12:51:38 | INFO | Request: POST /api/chat Process Time: 2.759s Status: 200
+2025-02-11 12:51:55 | ERROR | Failed to get collection info: 2 validation errors for ParsingModel[InlineResponse2005] (for parse_as_type)
+obj.result.config.optimizer_config.max_optimization_threads
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+obj.result.config.strict_mode_config
+  Extra inputs are not permitted [type=extra_forbidden, input_value={'enabled': False}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/extra_forbidden
+2025-02-11 12:51:55 | ERROR | Error getting document status: Vector store error: Failed to get collection info
+2025-02-11 12:51:55 | INFO | Request completed
+2025-02-11 12:51:55 | INFO | Request: GET /api/documents/status Process Time: 0.549s Status: 200
+2025-02-11 12:52:15 | INFO | Request completed
+2025-02-11 12:52:15 | INFO | Request: GET /api/health Process Time: 1.243s Status: 200
+2025-02-11 12:52:27 | INFO | Request completed
+2025-02-11 12:52:27 | INFO | Request: GET /api/analytics/summary Process Time: 0.003s Status: 200
+2025-02-11 12:52:39 | INFO | Request completed
+2025-02-11 12:52:39 | INFO | Request: GET /api/analytics/response-times Process Time: 0.002s Status: 200
+2025-02-11 12:53:01 | ERROR | Error getting session analysis: 404: No chat interactions found for session ID: test1. Please make some chat requests first.
+2025-02-11 12:53:01 | INFO | Request completed
+2025-02-11 12:53:01 | INFO | Request: GET /api/analysis/session/test1 Process Time: 0.015s Status: 500
+2025-02-11 12:57:53 | INFO | Request completed
+2025-02-11 12:57:53 | INFO | Request: GET /api/health Process Time: 3.277s Status: 200
+2025-02-11 13:03:36 | ERROR | Failed to get collection info: 2 validation errors for ParsingModel[InlineResponse2005] (for parse_as_type)
+obj.result.config.optimizer_config.max_optimization_threads
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+obj.result.config.strict_mode_config
+  Extra inputs are not permitted [type=extra_forbidden, input_value={'enabled': False}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/extra_forbidden
+2025-02-11 13:03:36 | ERROR | Error getting document status: Vector store error: Failed to get collection info
+2025-02-11 13:03:36 | INFO | Request completed
+2025-02-11 13:03:36 | INFO | Request: GET /api/documents/status Process Time: 0.816s Status: 200
+2025-02-11 13:04:42 | ERROR | Error processing document: 404: File not found: data/raw/your_first_document.pdf
+2025-02-11 13:04:42 | INFO | Request completed
+2025-02-11 13:04:42 | INFO | Request: POST /api/documents/process Process Time: 0.027s Status: 200
+2025-02-11 13:17:16 | INFO | Successfully processed 500KW & 917kWH Containerized Light Storage Integrated Energy Storage System English version.pdf into 1496 chunks
+2025-02-11 13:17:34 | ERROR | Failed to create embeddings: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 2525237. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2025-02-11 13:17:34 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 2525237. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2025-02-11 13:17:34 | INFO | Request completed
+2025-02-11 13:17:34 | INFO | Request: POST /api/documents/process Process Time: 31.313s Status: 200
+2025-02-11 13:17:46 | INFO | Successfully processed Chef Obehi.pdf into 23 chunks
+2025-02-11 13:17:52 | INFO | Stored 23 embeddings in Qdrant Cloud
+2025-02-11 13:17:52 | INFO | Request completed
+2025-02-11 13:17:52 | INFO | Request: POST /api/documents/process Process Time: 16.636s Status: 200
+2025-02-11 13:17:54 | INFO | Successfully processed Head Office-1.pdf into 0 chunks
+2025-02-11 13:17:56 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-11 13:17:56 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-11 13:17:56 | INFO | Request completed
+2025-02-11 13:17:56 | INFO | Request: POST /api/documents/process Process Time: 1.239s Status: 200
+2025-02-11 13:17:58 | INFO | Successfully processed Head Office-2.pdf into 0 chunks
+2025-02-11 13:17:59 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-11 13:17:59 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-11 13:17:59 | INFO | Request completed
+2025-02-11 13:17:59 | INFO | Request: POST /api/documents/process Process Time: 0.959s Status: 200
+2025-02-11 13:18:01 | INFO | Successfully processed Head Office.pdf into 0 chunks
+2025-02-11 13:18:01 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-11 13:18:01 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-11 13:18:01 | INFO | Request completed
+2025-02-11 13:18:02 | INFO | Request: POST /api/documents/process Process Time: 0.901s Status: 200
+2025-02-11 13:18:04 | INFO | Successfully processed Head Warehouse Close Workshop Office.pdf into 0 chunks
+2025-02-11 13:18:05 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-11 13:18:05 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-11 13:18:05 | INFO | Request completed
+2025-02-11 13:18:05 | INFO | Request: POST /api/documents/process Process Time: 1.153s Status: 200
+2025-02-11 13:18:07 | INFO | Successfully processed JeGO 5 series EV Charger.pdf into 1 chunks
+2025-02-11 13:18:08 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-11 13:18:08 | INFO | Request completed
+2025-02-11 13:18:08 | INFO | Request: POST /api/documents/process Process Time: 1.423s Status: 200
+2025-02-11 13:20:09 | INFO | Successfully processed JeGO 500KW & 930WH Containerized Light Storage Integrated Energy Storage System English version_compressed_compressed.pdf into 1500 chunks
+2025-02-11 13:20:19 | ERROR | Failed to store embeddings: Server disconnected without sending a response.
+2025-02-11 13:20:19 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-11 13:20:19 | INFO | Request completed
+2025-02-11 13:20:19 | INFO | Request: POST /api/documents/process Process Time: 128.653s Status: 200
+2025-02-11 13:20:26 | INFO | Successfully processed JeGO and Moove.pdf into 59 chunks
+2025-02-11 13:20:31 | INFO | Stored 59 embeddings in Qdrant Cloud
+2025-02-11 13:20:31 | INFO | Request completed
+2025-02-11 13:20:31 | INFO | Request: POST /api/documents/process Process Time: 10.389s Status: 200
+2025-02-11 13:20:34 | INFO | Successfully processed JeGO Charger Systems.pdf into 1 chunks
+2025-02-11 13:20:35 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-11 13:20:35 | INFO | Request completed
+2025-02-11 13:20:35 | INFO | Request: POST /api/documents/process Process Time: 1.775s Status: 200
+2025-02-11 13:20:39 | INFO | Successfully processed JeGO Pods Product Intro 2023 EN-3_compressed.pdf into 149 chunks
+2025-02-11 13:20:48 | INFO | Stored 149 embeddings in Qdrant Cloud
+2025-02-11 13:20:48 | INFO | Request completed
+2025-02-11 13:20:48 | INFO | Request: POST /api/documents/process Process Time: 11.233s Status: 200
+2025-02-11 13:20:51 | INFO | Successfully processed JeGO Power Pods 5 series.pdf into 1 chunks
+2025-02-11 13:20:53 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-11 13:20:53 | INFO | Request completed
+2025-02-11 13:20:53 | INFO | Request: POST /api/documents/process Process Time: 2.246s Status: 200
+2025-02-11 13:20:58 | INFO | Successfully processed JeGO Skipper Truck.pdf into 12 chunks
+2025-02-11 13:21:01 | INFO | Stored 12 embeddings in Qdrant Cloud
+2025-02-11 13:21:01 | INFO | Request completed
+2025-02-11 13:21:01 | INFO | Request: POST /api/documents/process Process Time: 6.535s Status: 200
+2025-02-11 13:21:06 | INFO | Successfully processed JeGO Skipper Van.pdf into 16 chunks
+2025-02-11 13:21:09 | INFO | Stored 16 embeddings in Qdrant Cloud
+2025-02-11 13:21:09 | INFO | Request completed
+2025-02-11 13:21:09 | INFO | Request: POST /api/documents/process Process Time: 5.453s Status: 200
+2025-02-11 13:21:16 | INFO | Successfully processed JeGO Zero Pro.pdf into 55 chunks
+2025-02-11 13:21:21 | INFO | Stored 55 embeddings in Qdrant Cloud
+2025-02-11 13:21:21 | INFO | Request completed
+2025-02-11 13:21:21 | INFO | Request: POST /api/documents/process Process Time: 10.171s Status: 200
+2025-02-11 13:21:25 | INFO | Successfully processed JeGO.pdf into 34 chunks
+2025-02-11 13:21:29 | INFO | Stored 34 embeddings in Qdrant Cloud
+2025-02-11 13:21:29 | INFO | Request completed
+2025-02-11 13:21:29 | INFO | Request: POST /api/documents/process Process Time: 5.679s Status: 200
+2025-02-11 13:21:31 | INFO | Successfully processed JéGO Zero Carbon.pdf into 91 chunks
+2025-02-11 13:21:33 | INFO | Stored 91 embeddings in Qdrant Cloud
+2025-02-11 13:21:33 | INFO | Request completed
+2025-02-11 13:21:33 | INFO | Request: POST /api/documents/process Process Time: 2.918s Status: 200
+2025-02-11 13:21:36 | INFO | Successfully processed JéGO Zero Carbon__.pdf into 285 chunks
+2025-02-11 13:21:39 | INFO | Stored 285 embeddings in Qdrant Cloud
+2025-02-11 13:21:39 | INFO | Request completed
+2025-02-11 13:21:39 | INFO | Request: POST /api/documents/process Process Time: 4.004s Status: 200
+2025-02-11 13:21:45 | INFO | Successfully processed JéGO AI.pdf into 38 chunks
+2025-02-11 13:21:48 | INFO | Stored 38 embeddings in Qdrant Cloud
+2025-02-11 13:21:48 | INFO | Request completed
+2025-02-11 13:21:48 | INFO | Request: POST /api/documents/process Process Time: 6.705s Status: 200
+2025-02-11 13:21:56 | INFO | Successfully processed JéGO for Smart Cities.pdf into 64 chunks
+2025-02-11 13:22:01 | INFO | Stored 64 embeddings in Qdrant Cloud
+2025-02-11 13:22:01 | INFO | Request completed
+2025-02-11 13:22:01 | INFO | Request: POST /api/documents/process Process Time: 10.729s Status: 200
+2025-02-11 13:22:08 | INFO | Successfully processed JéGO for Steyn City.pdf into 61 chunks
+2025-02-11 13:22:13 | INFO | Stored 61 embeddings in Qdrant Cloud
+2025-02-11 13:22:13 | INFO | Request completed
+2025-02-11 13:22:13 | INFO | Request: POST /api/documents/process Process Time: 9.680s Status: 200
+2025-02-11 13:22:15 | INFO | Successfully processed JéGO Pods Product Intro.pdf into 1 chunks
+2025-02-11 13:22:15 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-11 13:22:15 | INFO | Request completed
+2025-02-11 13:22:15 | INFO | Request: POST /api/documents/process Process Time: 0.678s Status: 200
+2025-02-11 13:22:17 | INFO | Successfully processed JéGO Product Quotation.pdf into 0 chunks
+2025-02-11 13:22:18 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-11 13:22:18 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-11 13:22:18 | INFO | Request completed
+2025-02-11 13:22:18 | INFO | Request: POST /api/documents/process Process Time: 0.345s Status: 200
+2025-02-11 13:22:26 | INFO | Successfully processed JéGO(Mega Power Pod)1.5Mwh_500KW_420kwp User Manual EN Version.pdf into 1935 chunks
+2025-02-11 13:22:44 | ERROR | Failed to create embeddings: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 5871924. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2025-02-11 13:22:44 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 5871924. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2025-02-11 13:22:44 | INFO | Request completed
+2025-02-11 13:22:44 | INFO | Request: POST /api/documents/process Process Time: 24.465s Status: 200
+2025-02-11 13:22:46 | INFO | Successfully processed Quotation Rooftop Stands for Reiz Continental.pdf into 1 chunks
+2025-02-11 13:22:47 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-11 13:22:47 | INFO | Request completed
+2025-02-11 13:22:47 | INFO | Request: POST /api/documents/process Process Time: 1.195s Status: 200
+2025-02-11 13:22:50 | INFO | Successfully processed Sky Garden build out for (It has pergola on it) Reiz Continenetal.pdf into 1 chunks
+2025-02-11 13:22:50 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-11 13:22:50 | INFO | Request completed
+2025-02-11 13:22:50 | INFO | Request: POST /api/documents/process Process Time: 1.022s Status: 200
+2025-02-11 13:22:53 | INFO | Successfully processed Townhall Agenda Brief.pdf into 1 chunks
+2025-02-11 13:22:54 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-11 13:22:54 | INFO | Request completed
+2025-02-11 13:22:54 | INFO | Request: POST /api/documents/process Process Time: 1.284s Status: 200
+2025-02-11 13:22:59 | INFO | Successfully processed Townhall Agenda.pdf into 30 chunks
+2025-02-11 13:23:03 | INFO | Stored 30 embeddings in Qdrant Cloud
+2025-02-11 13:23:03 | INFO | Request completed
+2025-02-11 13:23:03 | INFO | Request: POST /api/documents/process Process Time: 6.850s Status: 200
+2025-02-11 13:23:05 | INFO | Successfully processed Warehouse Atera.pdf into 0 chunks
+2025-02-11 13:23:05 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-11 13:23:05 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-11 13:23:05 | INFO | Request completed
+2025-02-11 13:23:05 | INFO | Request: POST /api/documents/process Process Time: 0.385s Status: 200
+2025-02-11 13:26:10 | INFO | Shutting down the application...
+2025-02-11 13:26:10 | INFO | Metrics exported to final_metrics.json
+2025-02-11 13:26:10 | INFO | Cleanup completed successfully
+2025-02-11 13:26:16 | INFO | Logger initialized - Info Mode
+2025-02-11 13:26:16 | WARNING | Logger initialized - Warning Mode
+2025-02-11 13:26:23 | INFO | Collection company_docs already exists
+2025-02-11 13:26:23 | INFO | Successfully connected to Qdrant Cloud
+2025-02-11 13:26:24 | INFO | Starting up the application...
+2025-02-11 13:26:24 | INFO | All services initialized successfully
+2025-02-11 13:26:24 | INFO | Shutting down the application...
+2025-02-11 13:26:24 | INFO | Metrics exported to final_metrics.json
+2025-02-11 13:26:24 | INFO | Cleanup completed successfully
+2025-02-11 13:26:29 | INFO | Logger initialized - Info Mode
+2025-02-11 13:26:29 | WARNING | Logger initialized - Warning Mode
+2025-02-11 13:26:34 | INFO | Collection company_docs already exists
+2025-02-11 13:26:34 | INFO | Successfully connected to Qdrant Cloud
+2025-02-11 13:26:35 | INFO | Starting up the application...
+2025-02-11 13:26:35 | INFO | All services initialized successfully
+2025-02-11 13:26:35 | INFO | Shutting down the application...
+2025-02-11 13:26:35 | INFO | Metrics exported to final_metrics.json
+2025-02-11 13:26:35 | INFO | Cleanup completed successfully
+2025-02-11 13:26:40 | INFO | Logger initialized - Info Mode
+2025-02-11 13:26:40 | WARNING | Logger initialized - Warning Mode
+2025-02-11 13:26:45 | INFO | Collection company_docs already exists
+2025-02-11 13:26:45 | INFO | Successfully connected to Qdrant Cloud
+2025-02-11 13:26:46 | INFO | Starting up the application...
+2025-02-11 13:26:46 | INFO | All services initialized successfully
+2025-02-11 13:27:04 | INFO | Request completed
+2025-02-11 13:27:04 | INFO | Request: GET /docs Process Time: 0.001s Status: 200
+2025-02-11 13:27:04 | INFO | Request completed
+2025-02-11 13:27:04 | INFO | Request: GET /openapi.json Process Time: 0.032s Status: 200
+2025-02-11 13:27:12 | INFO | Request completed
+2025-02-11 13:27:12 | INFO | Request: GET /docs Process Time: 0.006s Status: 200
+2025-02-11 13:27:13 | INFO | Request completed
+2025-02-11 13:27:13 | INFO | Request: GET /openapi.json Process Time: 0.000s Status: 200
+2025-02-11 13:31:21 | ERROR | Failed to get chat completion: Error code: 400 - {'error': {'message': "This model's maximum context length is 16385 tokens. However, your messages resulted in 21588 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+2025-02-11 13:31:21 | ERROR | Error processing message: OpenAI error: Chat completion failed: Error code: 400 - {'error': {'message': "This model's maximum context length is 16385 tokens. However, your messages resulted in 21588 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+2025-02-11 13:31:21 | ERROR | Error in chat endpoint: Failed to process message: OpenAI error: Chat completion failed: Error code: 400 - {'error': {'message': "This model's maximum context length is 16385 tokens. However, your messages resulted in 21588 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+2025-02-11 13:31:21 | INFO | Request completed
+2025-02-11 13:31:21 | INFO | Request: POST /api/chat Process Time: 3.063s Status: 500
+2025-02-11 14:36:43 | INFO | Logger initialized - Info Mode
+2025-02-11 14:36:43 | WARNING | Logger initialized - Warning Mode
+2025-02-11 14:36:48 | INFO | Collection company_docs already exists
+2025-02-11 14:36:48 | INFO | Successfully connected to Qdrant Cloud
+2025-02-11 14:36:48 | INFO | Starting up the application...
+2025-02-11 14:36:48 | INFO | All services initialized successfully
+2025-02-11 15:36:49 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250211_153649.json'
+2025-02-11 15:36:49 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250211_153649.json'
+2025-02-11 15:36:49 | INFO | Metrics exported to metrics_20250211_153649.json
+2025-02-11 15:37:32 | INFO | Request completed
+2025-02-11 15:37:32 | INFO | Request: GET /docs Process Time: 0.070s Status: 200
+2025-02-11 15:37:33 | INFO | Request completed
+2025-02-11 15:37:33 | INFO | Request: GET /openapi.json Process Time: 0.222s Status: 200
+2025-02-11 15:38:06 | ERROR | Failed to get chat completion: Error code: 400 - {'error': {'message': "This model's maximum context length is 16385 tokens. However, your messages resulted in 16578 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+2025-02-11 15:38:06 | ERROR | Error processing message: OpenAI error: Chat completion failed: Error code: 400 - {'error': {'message': "This model's maximum context length is 16385 tokens. However, your messages resulted in 16578 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+2025-02-11 15:38:06 | ERROR | Error in chat endpoint: Failed to process message: OpenAI error: Chat completion failed: Error code: 400 - {'error': {'message': "This model's maximum context length is 16385 tokens. However, your messages resulted in 16578 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+2025-02-11 15:38:06 | INFO | Request completed
+2025-02-11 15:38:06 | INFO | Request: POST /api/chat Process Time: 3.482s Status: 500
+2025-02-11 16:11:23 | ERROR | Failed to get chat completion: Error code: 400 - {'error': {'message': "This model's maximum context length is 16385 tokens. However, your messages resulted in 16578 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+2025-02-11 16:11:23 | ERROR | Error processing message: OpenAI error: Chat completion failed: Error code: 400 - {'error': {'message': "This model's maximum context length is 16385 tokens. However, your messages resulted in 16578 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+2025-02-11 16:11:23 | ERROR | Error in chat endpoint: Failed to process message: OpenAI error: Chat completion failed: Error code: 400 - {'error': {'message': "This model's maximum context length is 16385 tokens. However, your messages resulted in 16578 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+2025-02-11 16:11:23 | INFO | Request completed
+2025-02-11 16:11:23 | INFO | Request: POST /api/chat Process Time: 2.600s Status: 500
+2025-02-11 16:14:11 | INFO | Shutting down the application...
+2025-02-11 16:14:11 | INFO | Metrics exported to final_metrics.json
+2025-02-11 16:14:11 | INFO | Cleanup completed successfully
+2025-02-11 16:14:16 | INFO | Logger initialized - Info Mode
+2025-02-11 16:14:16 | WARNING | Logger initialized - Warning Mode
+2025-02-11 16:14:22 | INFO | Collection company_docs already exists
+2025-02-11 16:14:22 | INFO | Successfully connected to Qdrant Cloud
+2025-02-11 16:15:18 | INFO | Logger initialized - Info Mode
+2025-02-11 16:15:18 | WARNING | Logger initialized - Warning Mode
+2025-02-11 16:15:24 | INFO | Collection company_docs already exists
+2025-02-11 16:15:24 | INFO | Successfully connected to Qdrant Cloud
+2025-02-11 16:15:25 | INFO | Starting up the application...
+2025-02-11 16:15:25 | INFO | All services initialized successfully
+2025-02-11 16:15:25 | INFO | Request completed
+2025-02-11 16:15:25 | INFO | Request: GET /docs Process Time: 0.000s Status: 200
+2025-02-11 16:15:25 | INFO | Request completed
+2025-02-11 16:15:25 | INFO | Request: GET /openapi.json Process Time: 0.058s Status: 200
+2025-02-11 16:16:06 | WARNING | Slow response time detected: 7.41s
+2025-02-11 16:16:06 | INFO | Request completed
+2025-02-11 16:16:06 | INFO | Request: POST /api/chat Process Time: 7.413s Status: 200
+2025-02-11 16:16:36 | WARNING | Slow response time detected: 5.07s
+2025-02-11 16:16:36 | INFO | Request completed
+2025-02-11 16:16:36 | INFO | Request: POST /api/chat Process Time: 5.077s Status: 200
+2025-02-11 16:20:05 | INFO | Request completed
+2025-02-11 16:20:05 | INFO | Request: GET /api/health Process Time: 2.164s Status: 200
+2025-02-11 16:21:02 | INFO | Request completed
+2025-02-11 16:21:02 | INFO | Request: GET /api/analysis/session/test1 Process Time: 0.012s Status: 200
+2025-02-11 20:32:14 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250211_203213.json'
+2025-02-11 20:32:14 | INFO | Metrics exported to metrics_20250211_203214.json
+2025-02-11 20:32:14 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250211_203214.json'
+2025-02-11 21:32:14 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250211_213214.json'
+2025-02-11 21:32:14 | INFO | Metrics exported to metrics_20250211_213214.json
+2025-02-11 21:32:14 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250211_213214.json'
+2025-02-12 09:35:15 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250212_093515.json'
+2025-02-12 09:35:16 | INFO | Metrics exported to metrics_20250212_093516.json
+2025-02-12 09:35:16 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250212_093516.json'
+2025-02-12 11:09:07 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250212_110906.json'
+2025-02-12 11:09:07 | INFO | Metrics exported to metrics_20250212_110907.json
+2025-02-12 11:09:08 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250212_110908.json'
+2025-02-12 14:58:34 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250212_145834.json'
+2025-02-12 14:58:35 | INFO | Metrics exported to metrics_20250212_145834.json
+2025-02-12 14:58:35 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250212_145835.json'
+2025-02-12 16:34:03 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250212_163403.json'
+2025-02-12 16:34:04 | INFO | Metrics exported to metrics_20250212_163404.json
+2025-02-12 16:34:04 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250212_163404.json'
+2025-02-12 21:02:21 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250212_210221.json'
+2025-02-12 21:02:21 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250212_210221.json'
+2025-02-12 21:02:22 | INFO | Metrics exported to metrics_20250212_210221.json
+2025-02-12 23:21:16 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250212_232115.json'
+2025-02-12 23:21:16 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250212_232116.json'
+2025-02-12 23:21:16 | INFO | Metrics exported to metrics_20250212_232116.json
+2025-02-13 02:37:55 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250213_023754.json'
+2025-02-13 02:37:55 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250213_023755.json'
+2025-02-13 02:37:55 | INFO | Metrics exported to metrics_20250213_023755.json
+2025-02-13 10:50:39 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250213_105038.json'
+2025-02-13 10:50:39 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250213_105039.json'
+2025-02-13 10:50:39 | INFO | Metrics exported to metrics_20250213_105039.json
+2025-02-13 11:50:39 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250213_115039.json'
+2025-02-13 11:50:39 | INFO | Metrics exported to metrics_20250213_115039.json
+2025-02-13 11:50:39 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250213_115039.json'
+2025-02-18 13:26:15 | INFO | Logger initialized - Info Mode
+2025-02-18 13:26:15 | WARNING | Logger initialized - Warning Mode
+2025-02-18 13:26:23 | INFO | Collection company_docs already exists
+2025-02-18 13:26:23 | INFO | Successfully connected to Qdrant Cloud
+2025-02-18 13:26:26 | INFO | Starting up the application...
+2025-02-18 13:26:26 | INFO | All services initialized successfully
+2025-02-18 13:30:52 | INFO | Successfully processed 500KW & 917kWH Containerized Light Storage Integrated Energy Storage System English version.pdf into 1496 chunks
+2025-02-18 13:31:39 | INFO | Request completed
+2025-02-18 13:31:39 | INFO | Request: GET /docs Process Time: 0.011s Status: 200
+2025-02-18 13:31:40 | INFO | Request completed
+2025-02-18 13:31:40 | INFO | Request: GET /openapi.json Process Time: 0.094s Status: 200
+2025-02-18 13:31:42 | INFO | Request completed
+2025-02-18 13:31:42 | INFO | Request: GET /docs Process Time: 0.018s Status: 200
+2025-02-18 13:31:42 | INFO | Request completed
+2025-02-18 13:31:43 | INFO | Request: GET /openapi.json Process Time: 0.015s Status: 200
+2025-02-18 13:31:55 | ERROR | Failed to create embeddings: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 2525237. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2025-02-18 13:31:55 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 2525237. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2025-02-18 13:31:55 | INFO | Request completed
+2025-02-18 13:31:55 | INFO | Request: POST /api/documents/process Process Time: 73.943s Status: 200
+2025-02-18 13:32:04 | INFO | Successfully processed Chef Obehi.pdf into 23 chunks
+2025-02-18 13:32:11 | INFO | Stored 23 embeddings in Qdrant Cloud
+2025-02-18 13:32:11 | INFO | Request completed
+2025-02-18 13:32:11 | INFO | Request: POST /api/documents/process Process Time: 13.625s Status: 200
+2025-02-18 13:32:13 | INFO | Successfully processed Head Office-1.pdf into 0 chunks
+2025-02-18 13:32:14 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-18 13:32:14 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-18 13:32:14 | INFO | Request completed
+2025-02-18 13:32:14 | INFO | Request: POST /api/documents/process Process Time: 1.227s Status: 200
+2025-02-18 13:32:16 | INFO | Successfully processed Head Office-2.pdf into 0 chunks
+2025-02-18 13:32:17 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-18 13:32:17 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-18 13:32:17 | INFO | Request completed
+2025-02-18 13:32:17 | INFO | Request: POST /api/documents/process Process Time: 0.868s Status: 200
+2025-02-18 13:32:19 | INFO | Successfully processed Head Office.pdf into 0 chunks
+2025-02-18 13:32:19 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-18 13:32:19 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-18 13:32:19 | INFO | Request completed
+2025-02-18 13:32:19 | INFO | Request: POST /api/documents/process Process Time: 0.429s Status: 200
+2025-02-18 13:32:21 | INFO | Successfully processed Head Warehouse Close Workshop Office.pdf into 0 chunks
+2025-02-18 13:32:22 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-18 13:32:22 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-18 13:32:22 | INFO | Request completed
+2025-02-18 13:32:22 | INFO | Request: POST /api/documents/process Process Time: 0.673s Status: 200
+2025-02-18 13:32:24 | INFO | Successfully processed JeGO 5 series EV Charger.pdf into 1 chunks
+2025-02-18 13:32:26 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-18 13:32:26 | INFO | Request completed
+2025-02-18 13:32:26 | INFO | Request: POST /api/documents/process Process Time: 2.250s Status: 200
+2025-02-18 13:34:37 | INFO | Successfully processed JeGO 500KW & 930WH Containerized Light Storage Integrated Energy Storage System English version_compressed_compressed.pdf into 1500 chunks
+2025-02-18 13:35:18 | ERROR | Failed to store embeddings: Server disconnected without sending a response.
+2025-02-18 13:35:18 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-18 13:35:18 | INFO | Request completed
+2025-02-18 13:35:18 | INFO | Request: POST /api/documents/process Process Time: 169.343s Status: 200
+2025-02-18 13:35:37 | INFO | Successfully processed JeGO and Moove.pdf into 59 chunks
+2025-02-18 13:35:46 | ERROR | Failed to store embeddings: The write operation timed out
+2025-02-18 13:35:46 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-18 13:35:46 | INFO | Request completed
+2025-02-18 13:35:46 | INFO | Request: POST /api/documents/process Process Time: 25.872s Status: 200
+2025-02-18 13:35:48 | INFO | Successfully processed JeGO Charger Systems.pdf into 1 chunks
+2025-02-18 13:35:50 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-18 13:35:50 | INFO | Request completed
+2025-02-18 13:35:50 | INFO | Request: POST /api/documents/process Process Time: 2.468s Status: 200
+2025-02-18 13:35:55 | INFO | Successfully processed JeGO Pods Product Intro 2023 EN-3_compressed.pdf into 149 chunks
+2025-02-18 13:36:07 | ERROR | Failed to store embeddings: The write operation timed out
+2025-02-18 13:36:07 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-18 13:36:07 | INFO | Request completed
+2025-02-18 13:36:07 | INFO | Request: POST /api/documents/process Process Time: 14.901s Status: 200
+2025-02-18 13:36:11 | INFO | Successfully processed JeGO Power Pods 5 series.pdf into 1 chunks
+2025-02-18 13:36:12 | WARNING | Slow response time detected: 11.52s
+2025-02-18 13:36:12 | INFO | Request completed
+2025-02-18 13:36:13 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-18 13:36:13 | INFO | Request: POST /api/chat Process Time: 12.247s Status: 200
+2025-02-18 13:36:13 | INFO | Request completed
+2025-02-18 13:36:13 | INFO | Request: POST /api/documents/process Process Time: 3.950s Status: 200
+2025-02-18 13:36:19 | INFO | Successfully processed JeGO Skipper Truck.pdf into 12 chunks
+2025-02-18 13:36:24 | INFO | Stored 12 embeddings in Qdrant Cloud
+2025-02-18 13:36:24 | INFO | Request completed
+2025-02-18 13:36:24 | INFO | Request: POST /api/documents/process Process Time: 8.981s Status: 200
+2025-02-18 13:36:30 | INFO | Successfully processed JeGO Skipper Van.pdf into 16 chunks
+2025-02-18 13:36:37 | INFO | Stored 16 embeddings in Qdrant Cloud
+2025-02-18 13:36:37 | INFO | Request completed
+2025-02-18 13:36:37 | INFO | Request: POST /api/documents/process Process Time: 10.690s Status: 200
+2025-02-18 13:36:50 | INFO | Successfully processed JeGO Zero Pro.pdf into 55 chunks
+2025-02-18 13:37:01 | ERROR | Failed to store embeddings: The write operation timed out
+2025-02-18 13:37:01 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-18 13:37:01 | WARNING | Slow response time detected: 10.87s
+2025-02-18 13:37:01 | INFO | Request completed
+2025-02-18 13:37:01 | INFO | Request completed
+2025-02-18 13:37:01 | INFO | Request: POST /api/documents/process Process Time: 22.328s Status: 200
+2025-02-18 13:37:01 | INFO | Request: POST /api/chat Process Time: 10.913s Status: 200
+2025-02-18 13:37:07 | INFO | Successfully processed JeGO.pdf into 34 chunks
+2025-02-18 13:37:16 | ERROR | Failed to store embeddings: The write operation timed out
+2025-02-18 13:37:16 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-18 13:37:16 | INFO | Request completed
+2025-02-18 13:37:16 | INFO | Request: POST /api/documents/process Process Time: 13.396s Status: 200
+2025-02-18 13:37:19 | INFO | Successfully processed JéGO Zero Carbon.pdf into 91 chunks
+2025-02-18 13:37:29 | ERROR | Failed to store embeddings: The write operation timed out
+2025-02-18 13:37:29 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-18 13:37:29 | INFO | Request completed
+2025-02-18 13:37:29 | INFO | Request: POST /api/documents/process Process Time: 10.185s Status: 200
+2025-02-18 13:37:31 | INFO | Successfully processed JéGO Zero Carbon__.pdf into 285 chunks
+2025-02-18 13:37:46 | ERROR | Failed to store embeddings: The write operation timed out
+2025-02-18 13:37:46 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-18 13:37:46 | INFO | Request completed
+2025-02-18 13:37:46 | INFO | Request: POST /api/documents/process Process Time: 15.154s Status: 200
+2025-02-18 13:37:53 | INFO | Successfully processed JéGO AI.pdf into 38 chunks
+2025-02-18 13:38:01 | ERROR | Failed to store embeddings: The write operation timed out
+2025-02-18 13:38:01 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-18 13:38:01 | INFO | Request completed
+2025-02-18 13:38:01 | INFO | Request: POST /api/documents/process Process Time: 13.239s Status: 200
+2025-02-18 13:38:11 | INFO | Successfully processed JéGO for Smart Cities.pdf into 64 chunks
+2025-02-18 13:38:27 | ERROR | Failed to store embeddings: The read operation timed out
+2025-02-18 13:38:27 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-18 13:38:27 | INFO | Request completed
+2025-02-18 13:38:27 | INFO | Request: POST /api/documents/process Process Time: 23.545s Status: 200
+2025-02-18 13:38:27 | INFO | Request completed
+2025-02-18 13:38:27 | INFO | Request: GET /api/analysis/session/test_1 Process Time: 0.029s Status: 200
+2025-02-18 13:38:40 | INFO | Successfully processed JéGO for Steyn City.pdf into 61 chunks
+2025-02-18 13:38:53 | ERROR | Failed to store embeddings: The write operation timed out
+2025-02-18 13:38:53 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-18 13:38:53 | INFO | Request completed
+2025-02-18 13:38:53 | INFO | Request: POST /api/documents/process Process Time: 24.360s Status: 200
+2025-02-18 13:38:55 | INFO | Successfully processed JéGO Product Quotation.pdf into 0 chunks
+2025-02-18 13:38:56 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-18 13:38:56 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-18 13:38:56 | INFO | Request completed
+2025-02-18 13:38:56 | INFO | Request: POST /api/documents/process Process Time: 1.198s Status: 200
+2025-02-18 13:39:10 | INFO | Successfully processed JéGO(Mega Power Pod)1.5Mwh_500KW_420kwp User Manual EN Version.pdf into 1935 chunks
+2025-02-18 13:39:17 | WARNING | Slow response time detected: 6.10s
+2025-02-18 13:39:17 | INFO | Request completed
+2025-02-18 13:39:17 | INFO | Request: POST /api/chat Process Time: 6.125s Status: 200
+2025-02-18 13:43:24 | ERROR | Failed to create embeddings: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 5871924. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2025-02-18 13:43:24 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 5871924. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2025-02-18 13:43:24 | INFO | Request completed
+2025-02-18 13:43:24 | INFO | Request: POST /api/documents/process Process Time: 266.171s Status: 200
+2025-02-18 13:43:27 | INFO | Successfully processed Quotation Rooftop Stands for Reiz Continental.pdf into 1 chunks
+2025-02-18 13:43:39 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-18 13:43:39 | INFO | Request completed
+2025-02-18 13:43:39 | INFO | Request: POST /api/documents/process Process Time: 12.095s Status: 200
+2025-02-18 13:43:42 | INFO | Successfully processed Sky Garden build out for (It has pergola on it) Reiz Continenetal.pdf into 1 chunks
+2025-02-18 13:43:43 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-18 13:43:43 | INFO | Request completed
+2025-02-18 13:43:43 | INFO | Request: POST /api/documents/process Process Time: 2.472s Status: 200
+2025-02-18 13:43:48 | INFO | Successfully processed Townhall Agenda Brief.pdf into 1 chunks
+2025-02-18 13:43:50 | INFO | Stored 1 embeddings in Qdrant Cloud
+2025-02-18 13:43:50 | INFO | Request completed
+2025-02-18 13:43:50 | INFO | Request: POST /api/documents/process Process Time: 5.020s Status: 200
+2025-02-18 13:44:05 | INFO | Successfully processed Townhall Agenda.pdf into 30 chunks
+2025-02-18 13:44:12 | ERROR | Failed to store embeddings: The write operation timed out
+2025-02-18 13:44:12 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+2025-02-18 13:44:12 | INFO | Request completed
+2025-02-18 13:44:12 | INFO | Request: POST /api/documents/process Process Time: 20.120s Status: 200
+2025-02-18 13:44:14 | INFO | Successfully processed Warehouse Atera.pdf into 0 chunks
+2025-02-18 13:44:16 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-18 13:44:16 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2025-02-18 13:44:16 | INFO | Request completed
+2025-02-18 13:44:16 | INFO | Request: POST /api/documents/process Process Time: 1.562s Status: 200
+2025-02-18 13:52:16 | WARNING | Slow response time detected: 7.71s
+2025-02-18 13:52:16 | INFO | Request completed
+2025-02-18 13:52:16 | INFO | Request: POST /api/chat Process Time: 7.767s Status: 200
+2025-02-18 13:54:04 | INFO | Request completed
+2025-02-18 13:54:04 | INFO | Request: GET /api/analysis/session/test_1 Process Time: 0.033s Status: 200
+2025-02-18 14:01:44 | WARNING | Slow response time detected: 9.15s
+2025-02-18 14:01:44 | INFO | Request completed
+2025-02-18 14:01:44 | INFO | Request: POST /api/chat Process Time: 9.172s Status: 200
+2025-02-18 14:26:26 | INFO | Metrics exported to metrics_20250218_142626.json
+2025-02-18 14:26:26 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250218_142626.json'
+2025-02-18 14:26:26 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250218_142626.json'
+2025-02-18 15:26:26 | INFO | Metrics exported to metrics_20250218_152626.json
+2025-02-18 15:26:26 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250218_152626.json'
+2025-02-18 15:26:26 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250218_152626.json'
+2025-02-18 16:26:26 | INFO | Metrics exported to metrics_20250218_162626.json
+2025-02-18 16:26:26 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250218_162626.json'
+2025-02-18 16:26:26 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250218_162626.json'
+2025-02-18 22:31:52 | INFO | Metrics exported to metrics_20250218_223150.json
+2025-02-18 22:31:53 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250218_223153.json'
+2025-02-18 22:31:54 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250218_223154.json'
+2025-02-19 10:07:55 | INFO | Metrics exported to metrics_20250219_100755.json
+2025-02-19 10:07:56 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250219_100755.json'
+2025-02-19 10:07:56 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250219_100756.json'
+2025-02-19 11:07:55 | INFO | Metrics exported to metrics_20250219_110755.json
+2025-02-19 11:07:56 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250219_110756.json'
+2025-02-19 11:07:56 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250219_110756.json'
+2025-02-19 12:07:56 | INFO | Metrics exported to metrics_20250219_120756.json
+2025-02-19 12:07:56 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250219_120756.json'
+2025-02-19 12:07:56 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250219_120756.json'
+2025-02-19 13:07:56 | INFO | Metrics exported to metrics_20250219_130756.json
+2025-02-19 13:07:56 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250219_130756.json'
+2025-02-19 13:07:56 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250219_130756.json'
+2025-02-19 14:07:56 | INFO | Metrics exported to metrics_20250219_140756.json
+2025-02-19 14:07:56 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250219_140756.json'
+2025-02-19 14:07:56 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250219_140756.json'
+2025-02-19 15:07:56 | INFO | Metrics exported to metrics_20250219_150756.json
+2025-02-19 15:07:56 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250219_150756.json'
+2025-02-19 15:07:56 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250219_150756.json'
+2025-02-20 12:22:04 | INFO | Metrics exported to metrics_20250220_122204.json
+2025-02-20 12:22:05 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250220_122205.json'
+2025-02-20 12:22:05 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250220_122205.json'
+2025-02-20 23:51:48 | INFO | Metrics exported to metrics_20250220_235148.json
+2025-02-20 23:51:49 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250220_235149.json'
+2025-02-20 23:51:49 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250220_235149.json'
+2025-02-21 10:17:50 | INFO | Metrics exported to metrics_20250221_101749.json
+2025-02-21 10:17:50 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_101750.json'
+2025-02-21 10:17:50 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_101750.json'
+2025-02-21 11:27:27 | INFO | Metrics exported to metrics_20250221_112727.json
+2025-02-21 11:27:28 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_112728.json'
+2025-02-21 11:27:28 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_112728.json'
+2025-02-21 12:27:28 | INFO | Metrics exported to metrics_20250221_122728.json
+2025-02-21 12:27:28 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_122728.json'
+2025-02-21 12:27:28 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_122728.json'
+2025-02-21 13:03:19 | INFO | Request completed
+2025-02-21 13:03:19 | INFO | Request: GET /docs Process Time: 0.278s Status: 200
+2025-02-21 13:03:19 | INFO | Request completed
+2025-02-21 13:03:19 | INFO | Request: GET /openapi.json Process Time: 0.030s Status: 200
+2025-02-21 13:27:28 | INFO | Metrics exported to metrics_20250221_132728.json
+2025-02-21 13:27:28 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_132728.json'
+2025-02-21 13:27:28 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_132728.json'
+2025-02-21 14:27:28 | INFO | Metrics exported to metrics_20250221_142728.json
+2025-02-21 14:27:28 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_142728.json'
+2025-02-21 14:27:28 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_142728.json'
+2025-02-21 15:27:28 | INFO | Metrics exported to metrics_20250221_152728.json
+2025-02-21 15:27:28 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_152728.json'
+2025-02-21 15:27:28 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_152728.json'
+2025-02-21 16:27:28 | INFO | Metrics exported to metrics_20250221_162728.json
+2025-02-21 16:27:28 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_162728.json'
+2025-02-21 16:27:28 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_162728.json'
+2025-02-22 09:01:27 | INFO | Metrics exported to metrics_20250222_090126.json
+2025-02-22 09:01:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250222_090127.json'
+2025-02-22 09:01:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250222_090127.json'
+2025-02-22 10:01:27 | INFO | Metrics exported to metrics_20250222_100127.json
+2025-02-22 10:01:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250222_100127.json'
+2025-02-22 10:01:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250222_100127.json'
+2025-02-22 11:01:27 | INFO | Metrics exported to metrics_20250222_110127.json
+2025-02-22 11:01:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250222_110127.json'
+2025-02-22 11:01:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250222_110127.json'
+2025-02-22 12:01:27 | INFO | Metrics exported to metrics_20250222_120127.json
+2025-02-22 12:01:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250222_120127.json'
+2025-02-22 12:01:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250222_120127.json'

@@ -1,0 +1,686 @@
+2025-02-04 11:43:04 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_114304.json'
+
+2025-02-04 11:43:04 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_114304.json'
+
+2025-02-04 12:43:04 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_124304.json'
+
+2025-02-04 12:43:04 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_124304.json'
+
+2025-02-04 13:43:04 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_134304.json'
+
+2025-02-04 13:43:04 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_134304.json'
+
+2025-02-04 14:43:04 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_144304.json'
+
+2025-02-04 14:43:04 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_144304.json'
+
+2025-02-04 15:43:04 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_154304.json'
+
+2025-02-04 15:43:05 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_154305.json'
+
+2025-02-04 19:36:39 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_193637.json'
+
+2025-02-04 19:36:39 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_193639.json'
+
+2025-02-04 21:01:59 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_210158.json'
+
+2025-02-04 21:01:59 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250204_210159.json'
+
+2025-02-05 00:39:26 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_003925.json'
+
+2025-02-05 00:39:26 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_003926.json'
+
+2025-02-05 10:34:22 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_103422.json'
+
+2025-02-05 10:34:22 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_103422.json'
+
+2025-02-05 11:34:22 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_113422.json'
+
+2025-02-05 11:34:23 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_113423.json'
+
+2025-02-05 12:34:23 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_123423.json'
+
+2025-02-05 12:34:23 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_123423.json'
+
+2025-02-05 15:05:52 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_150552.json'
+
+2025-02-05 15:05:52 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_150552.json'
+
+2025-02-05 15:31:11 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:31:11 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:31:16 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:31:16 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:31:18 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:31:18 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:31:19 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:31:19 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:34:27 | ERROR | Request failed
+
+2025-02-05 15:34:27 | ERROR | Request failed
+
+2025-02-05 15:34:27 | ERROR | Request failed
+
+2025-02-05 15:34:27 | ERROR | Request failed
+
+2025-02-05 15:34:27 | ERROR | Request failed
+
+2025-02-05 15:34:27 | ERROR | Request failed
+
+2025-02-05 15:34:27 | ERROR | Request failed
+
+2025-02-05 15:34:27 | ERROR | Request failed
+
+2025-02-05 15:34:27 | ERROR | Request failed
+
+2025-02-05 15:34:27 | ERROR | Request failed
+
+2025-02-05 15:34:27 | ERROR | Request failed
+
+2025-02-05 15:34:27 | ERROR | Request failed
+
+2025-02-05 15:34:27 | ERROR | Request failed
+
+2025-02-05 15:34:27 | ERROR | Request failed
+
+2025-02-05 15:34:27 | ERROR | Request failed
+
+2025-02-05 15:34:27 | ERROR | Request failed
+
+2025-02-05 15:34:27 | ERROR | Request failed
+
+2025-02-05 15:34:27 | ERROR | Request failed
+
+2025-02-05 15:34:27 | ERROR | Request failed
+
+2025-02-05 15:34:27 | ERROR | Request failed
+
+2025-02-05 15:34:27 | ERROR | Request failed
+
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.141s Error: No response returned.
+
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.143s Error: No response returned.
+
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.143s Error: No response returned.
+
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.145s Error: No response returned.
+
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.145s Error: No response returned.
+
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.147s Error: No response returned.
+
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.147s Error: No response returned.
+
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.152s Error: No response returned.
+
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.153s Error: No response returned.
+
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.154s Error: No response returned.
+
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.156s Error: No response returned.
+
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.158s Error: No response returned.
+
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.159s Error: No response returned.
+
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.160s Error: No response returned.
+
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.161s Error: No response returned.
+
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.162s Error: No response returned.
+
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.165s Error: No response returned.
+
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.167s Error: No response returned.
+
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.169s Error: No response returned.
+
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.169s Error: No response returned.
+
+2025-02-05 15:34:27 | ERROR | Request failed: POST /api/documents/process Process Time: 0.171s Error: No response returned.
+
+2025-02-05 15:34:40 | ERROR | Failed to store embeddings: Server disconnected without sending a response.
+
+2025-02-05 15:34:41 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-05 15:34:41 | ERROR | Failed to create embeddings: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 2525237. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+2025-02-05 15:34:41 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 2525237. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+2025-02-05 15:35:59 | ERROR | Failed to create embeddings: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 2525237. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+2025-02-05 15:35:59 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 2525237. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+2025-02-05 15:36:11 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:36:11 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:36:12 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:36:12 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:36:13 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:36:13 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:36:17 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:36:17 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:38:39 | ERROR | Request failed
+
+2025-02-05 15:38:39 | ERROR | Request failed
+
+2025-02-05 15:38:39 | ERROR | Request failed
+
+2025-02-05 15:38:39 | ERROR | Request failed: POST /api/documents/process Process Time: 1.659s Error: No response returned.
+
+2025-02-05 15:38:39 | ERROR | Request failed: POST /api/documents/process Process Time: 1.659s Error: No response returned.
+
+2025-02-05 15:38:39 | ERROR | Request failed: POST /api/documents/process Process Time: 1.660s Error: No response returned.
+
+2025-02-05 15:38:51 | ERROR | Failed to store embeddings: Server disconnected without sending a response.
+
+2025-02-05 15:38:51 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-05 15:39:25 | ERROR | Failed to store embeddings: The write operation timed out
+
+2025-02-05 15:39:25 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-05 15:39:42 | ERROR | Failed to store embeddings: The write operation timed out
+
+2025-02-05 15:39:42 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-05 15:39:53 | ERROR | Failed to store embeddings: The write operation timed out
+
+2025-02-05 15:39:53 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-05 15:40:21 | ERROR | Failed to store embeddings: The write operation timed out
+
+2025-02-05 15:40:21 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-05 15:40:42 | ERROR | Failed to store embeddings: The write operation timed out
+
+2025-02-05 15:40:42 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-05 15:40:46 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:40:46 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:41:40 | ERROR | Failed to store embeddings: The write operation timed out
+
+2025-02-05 15:41:40 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-05 15:41:41 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:41:41 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:42:17 | ERROR | Failed to create embeddings: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 5871924. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+2025-02-05 15:42:17 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 5871924. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+2025-02-05 15:45:10 | ERROR | Failed to create embeddings: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 2525237. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+2025-02-05 15:45:10 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 2525237. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+2025-02-05 15:45:25 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:45:25 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:45:28 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:45:28 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:45:31 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:45:31 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:45:34 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:45:34 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:47:26 | ERROR | Failed to store embeddings: Server disconnected without sending a response.
+
+2025-02-05 15:47:26 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-05 15:47:45 | ERROR | Failed to store embeddings: The write operation timed out
+
+2025-02-05 15:47:45 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-05 15:48:06 | ERROR | Failed to store embeddings: The write operation timed out
+
+2025-02-05 15:48:06 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-05 15:48:53 | ERROR | Failed to store embeddings: The write operation timed out
+
+2025-02-05 15:48:53 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-05 15:49:15 | ERROR | Failed to store embeddings: The write operation timed out
+
+2025-02-05 15:49:15 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-05 15:49:28 | ERROR | Failed to store embeddings: The write operation timed out
+
+2025-02-05 15:49:28 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-05 15:50:01 | ERROR | Failed to store embeddings: The read operation timed out
+
+2025-02-05 15:50:01 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-05 15:50:21 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:50:21 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:50:50 | ERROR | Failed to create embeddings: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 5871924. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+2025-02-05 15:50:50 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 5871924. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+2025-02-05 15:51:16 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 15:51:16 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-05 16:44:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_164427.json'
+
+2025-02-05 16:44:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_164427.json'
+
+2025-02-05 17:44:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_174427.json'
+
+2025-02-05 17:44:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_174427.json'
+
+2025-02-05 18:44:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_184427.json'
+
+2025-02-05 18:44:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_184427.json'
+
+2025-02-05 19:08:44 | ERROR | Failed to get collection info: 2 validation errors for ParsingModel[InlineResponse2005] (for parse_as_type)
+obj.result.config.optimizer_config.max_optimization_threads
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+obj.result.config.strict_mode_config
+  Extra inputs are not permitted [type=extra_forbidden, input_value={'enabled': False}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/extra_forbidden
+
+2025-02-05 19:08:44 | ERROR | Error getting document status: Vector store error: Failed to get collection info
+
+2025-02-05 19:10:04 | ERROR | Failed to get collection info: 2 validation errors for ParsingModel[InlineResponse2005] (for parse_as_type)
+obj.result.config.optimizer_config.max_optimization_threads
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+obj.result.config.strict_mode_config
+  Extra inputs are not permitted [type=extra_forbidden, input_value={'enabled': False}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/extra_forbidden
+
+2025-02-05 19:10:04 | ERROR | Error getting document status: Vector store error: Failed to get collection info
+
+2025-02-05 19:25:40 | ERROR | Failed to get collection info: 2 validation errors for ParsingModel[InlineResponse2005] (for parse_as_type)
+obj.result.config.optimizer_config.max_optimization_threads
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+obj.result.config.strict_mode_config
+  Extra inputs are not permitted [type=extra_forbidden, input_value={'enabled': False}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/extra_forbidden
+
+2025-02-05 19:25:40 | ERROR | Error getting document status: Vector store error: Failed to get collection info
+
+2025-02-05 19:52:22 | ERROR | Failed to get chat completion: Error code: 400 - {'error': {'message': "This model's maximum context length is 16385 tokens. However, your messages resulted in 32464 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+
+2025-02-05 19:52:22 | ERROR | Error processing message: OpenAI error: Chat completion failed: Error code: 400 - {'error': {'message': "This model's maximum context length is 16385 tokens. However, your messages resulted in 32464 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+
+2025-02-05 19:52:22 | ERROR | Error in chat endpoint: Failed to process message: OpenAI error: Chat completion failed: Error code: 400 - {'error': {'message': "This model's maximum context length is 16385 tokens. However, your messages resulted in 32464 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+
+2025-02-05 23:05:33 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_230532.json'
+
+2025-02-05 23:05:33 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250205_230533.json'
+
+2025-02-06 09:33:39 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250206_093339.json'
+
+2025-02-06 09:33:39 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250206_093339.json'
+
+2025-02-07 21:14:00 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250207_211359.json'
+
+2025-02-07 21:14:01 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250207_211401.json'
+
+2025-02-08 00:44:05 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250208_004405.json'
+
+2025-02-08 00:44:08 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250208_004408.json'
+
+2025-02-08 11:27:02 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250208_112702.json'
+
+2025-02-08 11:27:03 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250208_112703.json'
+
+2025-02-08 12:27:03 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250208_122703.json'
+
+2025-02-08 12:27:04 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250208_122704.json'
+
+2025-02-08 13:27:03 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250208_132703.json'
+
+2025-02-08 13:27:04 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250208_132704.json'
+
+2025-02-08 17:19:43 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250208_171943.json'
+
+2025-02-08 17:19:44 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250208_171944.json'
+
+2025-02-09 14:42:51 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250209_144250.json'
+
+2025-02-09 14:42:51 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250209_144251.json'
+
+2025-02-11 12:36:56 | ERROR | Error getting session analysis: 404: No interactions found for session
+
+2025-02-11 12:37:00 | ERROR | Error getting session analysis: 404: No interactions found for session
+
+2025-02-11 12:37:32 | ERROR | Error getting global analysis: 404: No interactions recorded
+
+2025-02-11 12:42:25 | ERROR | Error getting session analysis: 404: No chat interactions found for session ID: test1. Please make some chat requests first.
+
+2025-02-11 12:46:58 | ERROR | Error getting session analysis: 404: No chat interactions found for session ID: test1. Please make some chat requests first.
+
+2025-02-11 12:48:58 | ERROR | Failed to get collection info: 2 validation errors for ParsingModel[InlineResponse2005] (for parse_as_type)
+obj.result.config.optimizer_config.max_optimization_threads
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+obj.result.config.strict_mode_config
+  Extra inputs are not permitted [type=extra_forbidden, input_value={'enabled': False}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/extra_forbidden
+
+2025-02-11 12:48:58 | ERROR | Error getting document status: Vector store error: Failed to get collection info
+
+2025-02-11 12:51:55 | ERROR | Failed to get collection info: 2 validation errors for ParsingModel[InlineResponse2005] (for parse_as_type)
+obj.result.config.optimizer_config.max_optimization_threads
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+obj.result.config.strict_mode_config
+  Extra inputs are not permitted [type=extra_forbidden, input_value={'enabled': False}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/extra_forbidden
+
+2025-02-11 12:51:55 | ERROR | Error getting document status: Vector store error: Failed to get collection info
+
+2025-02-11 12:53:01 | ERROR | Error getting session analysis: 404: No chat interactions found for session ID: test1. Please make some chat requests first.
+
+2025-02-11 13:03:36 | ERROR | Failed to get collection info: 2 validation errors for ParsingModel[InlineResponse2005] (for parse_as_type)
+obj.result.config.optimizer_config.max_optimization_threads
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+obj.result.config.strict_mode_config
+  Extra inputs are not permitted [type=extra_forbidden, input_value={'enabled': False}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/extra_forbidden
+
+2025-02-11 13:03:36 | ERROR | Error getting document status: Vector store error: Failed to get collection info
+
+2025-02-11 13:04:42 | ERROR | Error processing document: 404: File not found: data/raw/your_first_document.pdf
+
+2025-02-11 13:17:34 | ERROR | Failed to create embeddings: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 2525237. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+2025-02-11 13:17:34 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 2525237. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+2025-02-11 13:17:56 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-11 13:17:56 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-11 13:17:59 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-11 13:17:59 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-11 13:18:01 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-11 13:18:01 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-11 13:18:05 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-11 13:18:05 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-11 13:20:19 | ERROR | Failed to store embeddings: Server disconnected without sending a response.
+
+2025-02-11 13:20:19 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-11 13:22:18 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-11 13:22:18 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-11 13:22:44 | ERROR | Failed to create embeddings: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 5871924. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+2025-02-11 13:22:44 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 5871924. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+2025-02-11 13:23:05 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-11 13:23:05 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-11 13:31:21 | ERROR | Failed to get chat completion: Error code: 400 - {'error': {'message': "This model's maximum context length is 16385 tokens. However, your messages resulted in 21588 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+
+2025-02-11 13:31:21 | ERROR | Error processing message: OpenAI error: Chat completion failed: Error code: 400 - {'error': {'message': "This model's maximum context length is 16385 tokens. However, your messages resulted in 21588 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+
+2025-02-11 13:31:21 | ERROR | Error in chat endpoint: Failed to process message: OpenAI error: Chat completion failed: Error code: 400 - {'error': {'message': "This model's maximum context length is 16385 tokens. However, your messages resulted in 21588 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+
+2025-02-11 15:36:49 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250211_153649.json'
+
+2025-02-11 15:36:49 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250211_153649.json'
+
+2025-02-11 15:38:06 | ERROR | Failed to get chat completion: Error code: 400 - {'error': {'message': "This model's maximum context length is 16385 tokens. However, your messages resulted in 16578 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+
+2025-02-11 15:38:06 | ERROR | Error processing message: OpenAI error: Chat completion failed: Error code: 400 - {'error': {'message': "This model's maximum context length is 16385 tokens. However, your messages resulted in 16578 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+
+2025-02-11 15:38:06 | ERROR | Error in chat endpoint: Failed to process message: OpenAI error: Chat completion failed: Error code: 400 - {'error': {'message': "This model's maximum context length is 16385 tokens. However, your messages resulted in 16578 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+
+2025-02-11 16:11:23 | ERROR | Failed to get chat completion: Error code: 400 - {'error': {'message': "This model's maximum context length is 16385 tokens. However, your messages resulted in 16578 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+
+2025-02-11 16:11:23 | ERROR | Error processing message: OpenAI error: Chat completion failed: Error code: 400 - {'error': {'message': "This model's maximum context length is 16385 tokens. However, your messages resulted in 16578 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+
+2025-02-11 16:11:23 | ERROR | Error in chat endpoint: Failed to process message: OpenAI error: Chat completion failed: Error code: 400 - {'error': {'message': "This model's maximum context length is 16385 tokens. However, your messages resulted in 16578 tokens. Please reduce the length of the messages.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+
+2025-02-11 20:32:14 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250211_203213.json'
+
+2025-02-11 20:32:14 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250211_203214.json'
+
+2025-02-11 21:32:14 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250211_213214.json'
+
+2025-02-11 21:32:14 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250211_213214.json'
+
+2025-02-12 09:35:15 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250212_093515.json'
+
+2025-02-12 09:35:16 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250212_093516.json'
+
+2025-02-12 11:09:07 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250212_110906.json'
+
+2025-02-12 11:09:08 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250212_110908.json'
+
+2025-02-12 14:58:34 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250212_145834.json'
+
+2025-02-12 14:58:35 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250212_145835.json'
+
+2025-02-12 16:34:03 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250212_163403.json'
+
+2025-02-12 16:34:04 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250212_163404.json'
+
+2025-02-12 21:02:21 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250212_210221.json'
+
+2025-02-12 21:02:21 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250212_210221.json'
+
+2025-02-12 23:21:16 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250212_232115.json'
+
+2025-02-12 23:21:16 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250212_232116.json'
+
+2025-02-13 02:37:55 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250213_023754.json'
+
+2025-02-13 02:37:55 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250213_023755.json'
+
+2025-02-13 10:50:39 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250213_105038.json'
+
+2025-02-13 10:50:39 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250213_105039.json'
+
+2025-02-13 11:50:39 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250213_115039.json'
+
+2025-02-13 11:50:39 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250213_115039.json'
+
+2025-02-18 13:31:55 | ERROR | Failed to create embeddings: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 2525237. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+2025-02-18 13:31:55 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 2525237. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+2025-02-18 13:32:14 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-18 13:32:14 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-18 13:32:17 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-18 13:32:17 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-18 13:32:19 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-18 13:32:19 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-18 13:32:22 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-18 13:32:22 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-18 13:35:18 | ERROR | Failed to store embeddings: Server disconnected without sending a response.
+
+2025-02-18 13:35:18 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-18 13:35:46 | ERROR | Failed to store embeddings: The write operation timed out
+
+2025-02-18 13:35:46 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-18 13:36:07 | ERROR | Failed to store embeddings: The write operation timed out
+
+2025-02-18 13:36:07 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-18 13:37:01 | ERROR | Failed to store embeddings: The write operation timed out
+
+2025-02-18 13:37:01 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-18 13:37:16 | ERROR | Failed to store embeddings: The write operation timed out
+
+2025-02-18 13:37:16 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-18 13:37:29 | ERROR | Failed to store embeddings: The write operation timed out
+
+2025-02-18 13:37:29 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-18 13:37:46 | ERROR | Failed to store embeddings: The write operation timed out
+
+2025-02-18 13:37:46 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-18 13:38:01 | ERROR | Failed to store embeddings: The write operation timed out
+
+2025-02-18 13:38:01 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-18 13:38:27 | ERROR | Failed to store embeddings: The read operation timed out
+
+2025-02-18 13:38:27 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-18 13:38:53 | ERROR | Failed to store embeddings: The write operation timed out
+
+2025-02-18 13:38:53 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-18 13:38:56 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-18 13:38:56 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-18 13:43:24 | ERROR | Failed to create embeddings: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 5871924. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+2025-02-18 13:43:24 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-3-small in organization org-zrewfptZW1paaggAS9pdHxxG on tokens per min (TPM): Limit 1000000, Requested 5871924. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+
+2025-02-18 13:44:12 | ERROR | Failed to store embeddings: The write operation timed out
+
+2025-02-18 13:44:12 | ERROR | Error processing document: Vector store error: Failed to store embeddings
+
+2025-02-18 13:44:16 | ERROR | Failed to create embeddings: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-18 13:44:16 | ERROR | Error processing document: OpenAI error: Embedding creation failed: Error code: 400 - {'error': {'message': "'$.input' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+
+2025-02-18 14:26:26 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250218_142626.json'
+
+2025-02-18 14:26:26 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250218_142626.json'
+
+2025-02-18 15:26:26 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250218_152626.json'
+
+2025-02-18 15:26:26 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250218_152626.json'
+
+2025-02-18 16:26:26 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250218_162626.json'
+
+2025-02-18 16:26:26 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250218_162626.json'
+
+2025-02-18 22:31:53 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250218_223153.json'
+
+2025-02-18 22:31:54 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250218_223154.json'
+
+2025-02-19 10:07:56 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250219_100755.json'
+
+2025-02-19 10:07:56 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250219_100756.json'
+
+2025-02-19 11:07:56 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250219_110756.json'
+
+2025-02-19 11:07:56 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250219_110756.json'
+
+2025-02-19 12:07:56 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250219_120756.json'
+
+2025-02-19 12:07:56 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250219_120756.json'
+
+2025-02-19 13:07:56 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250219_130756.json'
+
+2025-02-19 13:07:56 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250219_130756.json'
+
+2025-02-19 14:07:56 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250219_140756.json'
+
+2025-02-19 14:07:56 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250219_140756.json'
+
+2025-02-19 15:07:56 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250219_150756.json'
+
+2025-02-19 15:07:56 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250219_150756.json'
+
+2025-02-20 12:22:05 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250220_122205.json'
+
+2025-02-20 12:22:05 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250220_122205.json'
+
+2025-02-20 23:51:49 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250220_235149.json'
+
+2025-02-20 23:51:49 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250220_235149.json'
+
+2025-02-21 10:17:50 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_101750.json'
+
+2025-02-21 10:17:50 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_101750.json'
+
+2025-02-21 11:27:28 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_112728.json'
+
+2025-02-21 11:27:28 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_112728.json'
+
+2025-02-21 12:27:28 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_122728.json'
+
+2025-02-21 12:27:28 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_122728.json'
+
+2025-02-21 13:27:28 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_132728.json'
+
+2025-02-21 13:27:28 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_132728.json'
+
+2025-02-21 14:27:28 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_142728.json'
+
+2025-02-21 14:27:28 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_142728.json'
+
+2025-02-21 15:27:28 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_152728.json'
+
+2025-02-21 15:27:28 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_152728.json'
+
+2025-02-21 16:27:28 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_162728.json'
+
+2025-02-21 16:27:28 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250221_162728.json'
+
+2025-02-22 09:01:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250222_090127.json'
+
+2025-02-22 09:01:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250222_090127.json'
+
+2025-02-22 10:01:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250222_100127.json'
+
+2025-02-22 10:01:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250222_100127.json'
+
+2025-02-22 11:01:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250222_110127.json'
+
+2025-02-22 11:01:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250222_110127.json'
+
+2025-02-22 12:01:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250222_120127.json'
+
+2025-02-22 12:01:27 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250222_120127.json'
+

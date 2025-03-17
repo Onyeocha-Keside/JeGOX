@@ -1,0 +1,33 @@
+{
+  "response_times": [
+    {
+      "timestamp": "2025-02-11T16:16:06.205443",
+      "duration": 7.411837816238403
+    },
+    {
+      "timestamp": "2025-02-11T16:16:36.833131",
+      "duration": 5.073880195617676
+    }
+  ],
+  "token_usage": {},
+  "confidence_scores": [
+    {
+      "timestamp": "2025-02-11T16:16:06.205443",
+      "score": 0.9
+    },
+    {
+      "timestamp": "2025-02-11T16:16:36.833131",
+      "score": 0.9
+    }
+  ],
+  "user_interactions": {
+    "chat_message": 2
+  },
+  "error_counts": {},
+  "hourly_requests": {
+    "16": 2
+  },
+  "context_usage": {
+    "with_context": 2
+  }
+}
