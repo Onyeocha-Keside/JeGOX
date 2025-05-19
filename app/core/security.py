@@ -16,7 +16,15 @@ class SecurityManager:
         self._last_cleanup = time.time()
         # Initialize Fernet for encryption
         try:
-            self.fernet = Fernet(settings.ENCRYPTION_KEY.encode())
+            key = settings.ENCRYPTION_KEY
+            
+            # Fix padding if needed (this is the critical part)
+            padding = 4 - (len(key) % 4) if len(key) % 4 else 0
+            if padding:
+                key = key + "=" * padding
+                
+            self.fernet = Fernet(key.encode())
+            logger.info("Encryption initialized successfully")
         except Exception as e:
             logger.error(f"Error initializing encryption: {e}")
             self.fernet = None

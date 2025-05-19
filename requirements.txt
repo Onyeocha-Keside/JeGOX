@@ -13,3 +13,7 @@ pytest==7.4.4
 httpx==0.26.0  # For async HTTP requests
 python-jose==3.3.0  # For encryption
 loguru==0.7.2   # For better logging
+mangum==0.17.0
+backoff==2.2.1
+pydantic-settings==2.0
+cryptography==41.0.4

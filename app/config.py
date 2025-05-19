@@ -5,13 +5,13 @@ class Settings(BaseSettings):
     # OpenAI Settings
     OPENAI_API_KEY: str
     OPENAI_MODEL: str = "gpt-3.5-turbo"
-    MAX_TOKENS: int = 150
+    MAX_TOKENS: int = 500
     TEMPERATURE: float = 0.7
     
     # Qdrant Cloud Settings
     QDRANT_HOST: str
     QDRANT_API_KEY: str
-    QDRANT_COLLECTION_NAME: str = "company_docs"
+    QDRANT_COLLECTION_NAME: str = "Fred"
     
     # App Settings
     APP_NAME: str = "Fred - Company Assistant"
