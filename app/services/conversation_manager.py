@@ -1,7 +1,7 @@
 from typing import Dict, List, Optional, Any
 from datetime import datetime, timedelta
 import json
-import asyncio
+import time  # Add this import
 from app.core.security import security_manager
 from app.core.logger import logger
 from app.core.error import ChatbotException
@@ -50,9 +50,65 @@ class ConversationManager:
         self.backup_interval = timedelta(hours=1)  # Backup every hour
         self.max_messages = 100  # Maximum messages per conversation
         
-        # Start background tasks
-        asyncio.create_task(self._periodic_cleanup())
-        asyncio.create_task(self._periodic_backup())
+        # Track last cleanup and backup times for on-demand execution
+        self.last_cleanup_time = time.time()
+        self.last_backup_time = time.time()
+        self.cleanup_interval = 3600  # 1 hour in seconds
+        self.backup_interval_seconds = 3600  # 1 hour in seconds
+        
+        # Remove background tasks - not suitable for serverless
+        # asyncio.create_task(self._periodic_cleanup())
+        # asyncio.create_task(self._periodic_backup())
+
+    async def check_maintenance(self):
+        """Check if maintenance tasks (cleanup/backup) are needed."""
+        current_time = time.time()
+        
+        # Check for cleanup
+        if current_time - self.last_cleanup_time > self.cleanup_interval:
+            await self._perform_cleanup()
+            self.last_cleanup_time = current_time
+        
+        # Check for backup
+        if current_time - self.last_backup_time > self.backup_interval_seconds:
+            await self._perform_backup()
+            self.last_backup_time = current_time
+
+    async def _perform_cleanup(self):
+        """Perform cleanup of expired conversations."""
+        try:
+            current_time = datetime.now()
+            
+            for session_id, conversation in list(self.conversations.items()):
+                if current_time - conversation.last_updated > self.expiry_time:
+                    await self.archive_conversation(session_id)
+                    
+            logger.info("Conversation cleanup completed")
+        except Exception as e:
+            logger.error(f"Error in conversation cleanup: {e}")
+
+    async def _perform_backup(self):
+        """Perform backup of active conversations."""
+        try:
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            
+            backup_data = {
+                session_id: conv.to_dict()
+                for session_id, conv in self.conversations.items()
+            }
+            
+            # For serverless, we should store in /tmp directory
+            # or preferably use external storage like S3 or databases
+            # Here we'll use /tmp as a temporary solution
+            if backup_data:
+                # Instead of saving to a file in a serverless env,
+                # log a message about what would be backed up
+                logger.info(f"Would backup {len(backup_data)} conversations")
+                # In production, implement a cloud storage solution here
+                
+            logger.info("Conversation backup check completed")
+        except Exception as e:
+            logger.error(f"Error in conversation backup: {e}")
 
     async def create_conversation(
         self,
@@ -66,6 +122,10 @@ class ConversationManager:
         conversation = Conversation(session_id, metadata)
         self.conversations[session_id] = conversation
         logger.info(f"Created new conversation: {session_id}")
+        
+        # Check maintenance tasks when creating conversations
+        await self.check_maintenance()
+        
         return conversation
 
     async def get_conversation(
@@ -87,7 +147,10 @@ class ConversationManager:
                     conversation = await self.create_conversation(session_id)
                 else:
                     return None
-                    
+        
+        # Check maintenance tasks when getting conversations
+        await self.check_maintenance()
+        
         return conversation
 
     async def add_message(
@@ -116,6 +179,9 @@ class ConversationManager:
         if len(conversation.messages) % 5 == 0:
             await self._update_conversation_summary(conversation)
         
+        # Check maintenance tasks when adding messages
+        await self.check_maintenance()
+        
         return conversation
 
     async def archive_conversation(self, session_id: str) -> bool:
@@ -130,16 +196,13 @@ class ConversationManager:
                 json.dumps(conversation.to_dict())
             )
             
-            # Save to archive (implement your storage solution)
-            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            filename = f"conversations/archive/{session_id}_{timestamp}.json"
-            
-            with open(filename, 'w') as f:
-                json.dump({"encrypted_data": encrypted_data}, f)
+            # Modified for serverless - log instead of saving to files
+            # For production, implement cloud storage here (S3, database, etc.)
+            logger.info(f"Would archive conversation: {session_id}")
             
             # Remove from active conversations
             del self.conversations[session_id]
-            logger.info(f"Archived conversation: {session_id}")
+            logger.info(f"Removed conversation from memory: {session_id}")
             
             return True
         except Exception as e:
@@ -168,45 +231,26 @@ class ConversationManager:
         conversation = await self.get_conversation(session_id)
         if tag not in conversation.tags:
             conversation.tags.append(tag)
+            
+        # Check maintenance tasks when adding tags
+        await self.check_maintenance()
 
+    # Keep these methods for reference, but they will not be called automatically
     async def _periodic_cleanup(self):
-        """Periodically clean up expired conversations."""
+        """Periodically clean up expired conversations (unused in serverless)."""
         while True:
             try:
                 await asyncio.sleep(3600)  # Check every hour
-                current_time = datetime.now()
-                
-                for session_id, conversation in list(self.conversations.items()):
-                    if current_time - conversation.last_updated > self.expiry_time:
-                        await self.archive_conversation(session_id)
-                        
+                await self._perform_cleanup()
             except Exception as e:
                 logger.error(f"Error in conversation cleanup: {e}")
 
     async def _periodic_backup(self):
-        """Periodically backup active conversations."""
+        """Periodically backup active conversations (unused in serverless)."""
         while True:
             try:
                 await asyncio.sleep(3600)  # Backup every hour
-                timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-                
-                backup_data = {
-                    session_id: conv.to_dict()
-                    for session_id, conv in self.conversations.items()
-                }
-                
-                # Encrypt backup data
-                encrypted_backup = security_manager.encrypt_conversation(
-                    json.dumps(backup_data)
-                )
-                
-                # Save backup
-                filename = f"conversations/backup/backup_{timestamp}.json"
-                with open(filename, 'w') as f:
-                    json.dump({"encrypted_data": encrypted_backup}, f)
-                    
-                logger.info("Conversation backup completed")
-                
+                await self._perform_backup()
             except Exception as e:
                 logger.error(f"Error in conversation backup: {e}")
 
