@@ -166,7 +166,7 @@ async def clear_chat_history(session_id: str) -> dict:
         logger.error(f"Error clearing chat history: {e}")
         raise HTTPException(status_code=500, detail=str(e))
 
-@router.get("/health", response_model=HealthCheck)
+@router.get("/", response_model=HealthCheck)
 async def health_check() -> HealthCheck:
     """
     Check the health status of the service and its dependencies.

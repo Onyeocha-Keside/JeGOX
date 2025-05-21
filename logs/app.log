@@ -1786,3 +1786,47 @@ obj.result.config.strict_mode_config
 2025-05-19 11:33:39 | INFO | Request: GET /api/analysis/global Process Time: 0.011s Status: 200
 2025-05-19 11:33:53 | INFO | Request completed
 2025-05-19 11:33:53 | INFO | Request: GET /api/analysis/session/test-session-123 Process Time: 0.010s Status: 200
+2025-05-21 16:42:29 | INFO | Logger initialized - Info Mode
+2025-05-21 16:42:29 | WARNING | Logger initialized - Warning Mode
+2025-05-21 16:42:43 | INFO | Collection Fred already exists
+2025-05-21 16:42:43 | INFO | Successfully connected to Qdrant Cloud
+2025-05-21 16:42:45 | INFO | Encryption initialized successfully
+2025-05-21 16:42:46 | INFO | Starting up the application...
+2025-05-21 16:42:46 | INFO | All services initialized successfully
+2025-05-21 16:43:02 | INFO | Request completed
+2025-05-21 16:43:03 | INFO | Request: GET / Process Time: 0.342s Status: 404
+2025-05-21 16:43:04 | INFO | Request completed
+2025-05-21 16:43:04 | INFO | Request: GET /favicon.ico Process Time: 0.016s Status: 404
+2025-05-21 16:43:09 | INFO | Request completed
+2025-05-21 16:43:09 | INFO | Request: GET /docs Process Time: 0.020s Status: 200
+2025-05-21 16:43:11 | INFO | Request completed
+2025-05-21 16:43:11 | INFO | Request: GET /openapi.json Process Time: 0.073s Status: 200
+2025-05-21 16:43:39 | WARNING | Slow response time detected: 9.27s
+2025-05-21 16:43:39 | WARNING | Low confidence trend detected in recent responses
+2025-05-21 16:43:39 | INFO | Request completed
+2025-05-21 16:43:39 | INFO | Request: POST /api/chat Process Time: 9.287s Status: 200
+2025-05-21 16:44:55 | INFO | Request completed
+2025-05-21 16:44:55 | INFO | Request: GET /api/analysis/global Process Time: 0.010s Status: 200
+2025-05-21 16:57:57 | INFO | Shutting down the application...
+2025-05-21 16:57:57 | INFO | Metrics exported to final_metrics.json
+2025-05-21 16:57:57 | INFO | Cleanup completed successfully
+2025-05-21 16:58:14 | INFO | Logger initialized - Info Mode
+2025-05-21 16:58:14 | WARNING | Logger initialized - Warning Mode
+2025-05-21 16:58:32 | INFO | Collection Fred already exists
+2025-05-21 16:58:32 | INFO | Successfully connected to Qdrant Cloud
+2025-05-21 16:58:32 | INFO | Encryption initialized successfully
+2025-05-21 16:58:33 | INFO | Starting up the application...
+2025-05-21 16:58:33 | INFO | All services initialized successfully
+2025-05-21 16:58:34 | INFO | Request completed
+2025-05-21 16:58:34 | INFO | Request: GET /docs Process Time: 0.014s Status: 200
+2025-05-21 16:58:35 | INFO | Request completed
+2025-05-21 16:58:35 | INFO | Request: GET /openapi.json Process Time: 0.127s Status: 200
+2025-05-21 17:58:34 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250521_175834.json'
+2025-05-21 17:58:34 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250521_175834.json'
+2025-05-21 17:58:34 | INFO | Metrics exported to metrics_20250521_175834.json
+2025-05-21 18:58:34 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250521_185834.json'
+2025-05-21 18:58:34 | ERROR | Error in conversation backup: [Errno 2] No such file or directory: 'conversations/backup/backup_20250521_185834.json'
+2025-05-21 18:58:34 | INFO | Metrics exported to metrics_20250521_185834.json
+2025-05-21 19:02:04 | INFO | Shutting down the application...
+2025-05-21 19:02:04 | INFO | Metrics exported to final_metrics.json
+2025-05-21 19:02:04 | INFO | Cleanup completed successfully
