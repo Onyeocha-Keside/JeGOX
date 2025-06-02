@@ -43,7 +43,7 @@ app.add_middleware(
 # Include routers
 app.include_router(chat.router, prefix="/api")
 app.include_router(analytics.router, prefix="/api")
-app.include_router(conversation.router, prefix="/api")
+#app.include_router(conversation.router, prefix="/api")
 app.include_router(analysis.router, prefix="/api") 
 
 # Custom response headers middleware
@@ -100,43 +100,43 @@ async def api_error_handler(request: Request, exc: APIError):
     await ErrorLogging.log_error(exc, request)
     return await error_handler(request, exc)
 
-# Startup and shutdown events
-@app.on_event("startup")
-async def startup_event():
-    """Initialize services on startup."""
-    try:
-        logger.info("Starting up the application...")
+# # Startup and shutdown events
+# @app.on_event("startup")
+# async def startup_event():
+#     """Initialize services on startup."""
+#     try:
+#         logger.info("Starting up the application...")
         
-        # Start monitoring service
-        asyncio.create_task(monitoring_service.start_periodic_export(interval_minutes=60))
+#         # Start monitoring service
+#         asyncio.create_task(monitoring_service.start_periodic_export(interval_minutes=60))
         
-        # Initialize cache cleanup task
-        asyncio.create_task(cache_service._periodic_cleanup())
+#         # Initialize cache cleanup task
+#         asyncio.create_task(cache_service._periodic_cleanup())
         
-        # Initialize conversation backup task
-        asyncio.create_task(conversation_manager._periodic_backup())
+#         # Initialize conversation backup task
+#         asyncio.create_task(conversation_manager._periodic_backup())
         
-        logger.info("All services initialized successfully")
-    except Exception as e:
-        logger.error(f"Error during startup: {e}")
-        raise
+#         logger.info("All services initialized successfully")
+#     except Exception as e:
+#         logger.error(f"Error during startup: {e}")
+#         raise
 
-@app.on_event("shutdown")
-async def shutdown_event():
-    """Cleanup on shutdown."""
-    try:
-        logger.info("Shutting down the application...")
+# @app.on_event("shutdown")
+# async def shutdown_event():
+#     """Cleanup on shutdown."""
+#     try:
+#         logger.info("Shutting down the application...")
         
-        # Export final metrics
-        await monitoring_service.export_metrics("final_metrics.json")
+#         # Export final metrics
+#         await monitoring_service.export_metrics("final_metrics.json")
         
-        # Archive active conversations
-        for session_id in conversation_manager.conversations.keys():
-            await conversation_manager.archive_conversation(session_id)
+#         # Archive active conversations
+#         for session_id in conversation_manager.conversations.keys():
+#             await conversation_manager.archive_conversation(session_id)
             
-        logger.info("Cleanup completed successfully")
-    except Exception as e:
-        logger.error(f"Error during shutdown cleanup: {e}")
+#         logger.info("Cleanup completed successfully")
+#     except Exception as e:
+#         logger.error(f"Error during shutdown cleanup: {e}")
 
 # Development server
 if __name__ == "__main__":

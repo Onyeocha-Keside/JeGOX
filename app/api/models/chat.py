@@ -4,7 +4,7 @@ from typing import Optional, Dict, Any, List
 class ChatMessage(BaseModel):
     """Incoming chat message model."""
     message: str = Field(..., min_length=1, max_length=1000)
-    session_id: str = Field(..., min_length=1)
+    ticket : Optional[str] = None
     metadata: Optional[Dict[str, Any]] = None
 
 class ChatResponse(BaseModel):
@@ -14,6 +14,9 @@ class ChatResponse(BaseModel):
     needs_human: bool
     context_used: bool
     encrypted_history: str
+    ticket: str  # Always return ticket for next message
+    is_new_session: bool = False  # Indicates if this started a new session
+    metadata: Optional[Dict[str, Any]] = None
 
 class DocumentUpload(BaseModel):
     """Document upload request model."""
