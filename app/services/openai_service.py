@@ -23,7 +23,7 @@ class OpenAIService:
         """
         try:
             response = await self.client.embeddings.create(
-                model="text-embedding-3-small",
+                model="text-embedding-3-large",
                 input=texts
             )
             return [embedding.embedding for embedding in response.data]
@@ -37,46 +37,65 @@ class OpenAIService:
         context: Optional[str] = None,
         temperature: Optional[float] = None
     ) -> str:
-        """
-        Get chat completion from OpenAI.
-        
-        Args:
-            messages: List of message dictionaries
-            context: Additional context from similar documents
-            temperature: Optional temperature override
-            
-        Returns:
-            Generated response text
-        """
+        """Get chat completion with robust token management."""
         try:
-            # Create system message with Fred's personality and context
-            system_message = {
-                "role": "system",
-                "content": (
-                    "You are Fred, a professionally-casual and calm AI assistant. "
-                    "You provide concise, accurate responses while maintaining a friendly tone. "
-                    "You must:\n"
-                    "1. Keep responses short and relevant\n"
-                    "2. Express uncertainty when confidence is below 90%\n"
-                    "3. Suggest human support when uncertainty is high\n"
-                    "4. Never discuss competitor information or make promises\n"
-                    "5. Never share internal company information\n"
-                    "6. Never process sensitive customer data\n\n"
-                )
-            }
+            # Build base system message
+            base_system_content = (
+                "You are Fred, a knowledgeable AI assistant for JéGO products and services. "
+                "When users ask for comprehensive information, provide detailed responses using "
+                "ALL relevant information from the context. Structure responses clearly with "
+                "sections, bullet points, or numbered lists when appropriate. "
+                "Be thorough and technical when discussing specifications."
+            )
 
-            # Add context if provided
-            if context:
-                system_message["content"] += f"\nRelevant context:\n{context}"
+            # Prepare messages without context first
+            messages_content = "\n".join([msg.get('content', '') for msg in messages])
+            base_tokens = (len(base_system_content) + len(messages_content)) // 4
+            
+            # Calculate available tokens for context
+            max_total_tokens = 15000  # Safety buffer under 16385
+            available_for_context = max_total_tokens - base_tokens - 1000  # Reserve for response
+            
+            logger.info(f"Base tokens: ~{base_tokens}, Available for context: ~{available_for_context}")
 
-            # Combine system message with conversation history
+            # Truncate context if needed
+            final_context = context
+            if context and available_for_context > 0:
+                context_tokens = len(context) // 4
+                if context_tokens > available_for_context:
+                    logger.warning(f"Context too large ({context_tokens} tokens), truncating to {available_for_context}")
+                    max_context_chars = available_for_context * 4
+                    final_context = context[:max_context_chars] + "\n\n[Context truncated due to length - showing most relevant information]"
+                else:
+                    logger.info(f"Context fits: {context_tokens} tokens")
+            elif available_for_context <= 0:
+                logger.error("No room for context - using minimal system message")
+                final_context = None
+
+            # Build final system message
+            if final_context:
+                system_content = f"{base_system_content}\n\nRelevant context:\n{final_context}"
+            else:
+                system_content = base_system_content
+
+            system_message = {"role": "system", "content": system_content}
             all_messages = [system_message] + messages
+
+            # Final token check
+            total_chars = sum(len(msg.get('content', '')) for msg in all_messages)
+            estimated_tokens = total_chars // 4
+            
+            logger.info(f"Final estimated tokens: ~{estimated_tokens}")
+
+            # Ensure we have reasonable max_tokens
+            max_tokens = max(1000, min(4000, 15000 - estimated_tokens))
+            logger.info(f"Using max_tokens: {max_tokens}")
 
             response = await self.client.chat.completions.create(
                 model=settings.OPENAI_MODEL,
                 messages=all_messages,
                 temperature=temperature or settings.TEMPERATURE,
-                max_tokens=settings.MAX_TOKENS
+                max_tokens=max_tokens
             )
 
             return response.choices[0].message.content
