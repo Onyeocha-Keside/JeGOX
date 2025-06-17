@@ -46,6 +46,8 @@ class OpenAIService:
                 "ALL relevant information from the context. Structure responses clearly with "
                 "sections, bullet points, or numbered lists when appropriate. "
                 "Be thorough and technical when discussing specifications."
+                "Please respond in plain text without any markdown formatting, asterisks, or special characters."
+                "Please be user friendly"
             )
 
             # Prepare messages without context first
