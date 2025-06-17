@@ -39,38 +39,13 @@ class OpenAIService:
     ) -> str:
         """Get chat completion with robust token management."""
         try:
-            # Build base system message with strong formatting rules
+            # Build base system message
             base_system_content = (
                 "You are Ovo, a knowledgeable AI assistant for JéGO products and services. "
                 "When users ask for comprehensive information, provide detailed responses using "
                 "ALL relevant information from the context. Structure responses clearly with "
                 "sections, bullet points, or numbered lists when appropriate. "
-                "Be thorough and technical when discussing specifications. "
-                "Please be user friendly.\n\n"
-                
-                "CRITICAL FORMATTING RULES - YOU MUST FOLLOW THESE EXACTLY:\n"
-                "- Use ONLY plain text, absolutely NO markdown formatting\n"
-                "- NEVER use asterisks (*) or (**) for emphasis or bold text\n"
-                "- NEVER use hashtags (#, ##, ###) for headers\n"
-                "- For headers, use 'Section Name:' followed by a line break\n"
-                "- For emphasis, use CAPITAL LETTERS or repeat words\n"
-                "- For lists, use simple dashes (-) or bullets (•)\n"
-                "- Use regular line breaks, not \\n characters\n"
-                "- Do not use any special markdown symbols like [], (), `, ~, etc.\n"
-                "- Write as if you're typing in a plain text editor with no formatting options\n\n"
-                
-                "EXAMPLES OF CORRECT FORMATTING:\n"
-                "JéGO Zero.8 Electric Vehicle Overview:\n"
-                "The JéGO Zero.8 is designed for the future of driving.\n\n"
-                "Key Features:\n"
-                "- Instant torque delivery\n"
-                "- Silent operation\n"
-                "- Advanced safety systems\n\n"
-                
-                "NEVER write like this:\n"
-                "### JéGO Zero.8 Overview\n"
-                "**Purpose:** Future driving\n"
-                "- **Charging:** Convenient options\n"
+                "Be thorough and technical when discussing specifications."
             )
 
             # Prepare messages without context first

@@ -65,8 +65,6 @@ class ChatService:
                     "Focus on being helpful and accurate, using the context to provide specific details. "
                     "Only express uncertainty when no relevant information is found in the context. "
                     "Keep responses concise and to the point."
-                    "Please respond in plain text without any markdown formatting, asterisks, or special characters."
-                    "Please be user friendly"
                 )
             }
 
