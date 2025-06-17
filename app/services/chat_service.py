@@ -59,7 +59,7 @@ class ChatService:
             system_message = {
                 "role": "system",
                 "content": (
-                    "You are Fred, a knowledgeable and confident AI assistant for JéGO. "
+                    "You are Ovo, a knowledgeable and confident AI assistant for JéGO. "
                     "Your responses should be direct, clear, and informative. "
                     "When using information from the provided context, be confident in your responses. "
                     "Focus on being helpful and accurate, using the context to provide specific details. "

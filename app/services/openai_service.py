@@ -41,7 +41,7 @@ class OpenAIService:
         try:
             # Build base system message
             base_system_content = (
-                "You are Fred, a knowledgeable AI assistant for JéGO products and services. "
+                "You are Ovo, a knowledgeable AI assistant for JéGO products and services. "
                 "When users ask for comprehensive information, provide detailed responses using "
                 "ALL relevant information from the context. Structure responses clearly with "
                 "sections, bullet points, or numbered lists when appropriate. "
