@@ -2,6 +2,8 @@ from fastapi import APIRouter, HTTPException, Depends, Request
 from typing import Optional
 from datetime import datetime, timedelta
 import uuid
+import time
+from app.services.basic_monitoring import basic_monitor
 from jose import jwt, JWTError  # Import JWTError from jose
 from app.api.models.chat import (
     ChatMessage, 
@@ -89,6 +91,7 @@ async def chat_endpoint(
     message: ChatMessage,
     request: Request
 ) -> ChatResponse:
+    start_time = time.time()
     """
     Process chat messages and return responses.
     """
@@ -131,7 +134,16 @@ async def chat_endpoint(
             message=message.message,
             metadata=message.metadata
         )
+        #end timing
+        end_time = time.time()
+        response_time = end_time - start_time
 
+        #record the conversation
+        basic_monitor.record_conversation(
+            user_message=message.message,
+            bot_response=response["response"],
+            response_time=response_time
+        )
         # Create response with the ticket
         chat_response = ChatResponse(
             **response,
@@ -145,6 +157,14 @@ async def chat_endpoint(
         logger.error(f"Error in chat endpoint: {e}")
         raise HTTPException(status_code=500, detail=str(e))
 
+@router.get("/monitoring/stats")
+async def get_monitoring_stats():
+    """get basic monitoring stats"""
+    stats = basic_monitor.get_stats()
+    return {
+        "status": "success",
+        "data": stats
+    }
 @router.post("/documents/process", response_model=DocumentProcessResponse)
 async def process_document(document: DocumentUpload) -> DocumentProcessResponse:
     """Process and store a document (admin only)."""
